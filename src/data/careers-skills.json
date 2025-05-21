@@ -1,0 +1,252 @@
+[
+  {
+    "domain": "Technology",
+    "sub_domain": "Web Development",
+    "skills": ["Frontend Development", "Backend Development"]
+  },
+  {
+    "domain": "AI & Machine Learning",
+    "sub_domain": "NLP",
+    "skills": ["Python Programming", "Machine Learning Fundamentals"]
+  },
+  {
+    "domain": "Digital Marketing",
+    "sub_domain": "SEO/Social Media",
+    "skills": ["Search Engine Optimization", "Content Strategy"]
+  },
+  {
+    "domain": "Design",
+    "sub_domain": "Graphic Design",
+    "skills": ["Visual Communication", "Typography Principles"]
+  },
+  {
+    "domain": "Business & Management",
+    "sub_domain": "Business Administration",
+    "skills": ["Leadership Skills", "Financial Management"]
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Financial Analysis",
+    "skills": ["Financial Modeling", "Risk Management"]
+  },
+  {
+    "domain": "Education & Teaching",
+    "sub_domain": "Curriculum Design",
+    "skills": ["Pedagogy Fundamentals", "Instructional Design"]
+  },
+  {
+    "domain": "Healthcare (Non-MBBS)",
+    "sub_domain": "Public Health",
+    "skills": ["Epidemiology Basics", "Health Education"]
+  },
+  {
+    "domain": "Engineering",
+    "sub_domain": "Civil Engineering",
+    "skills": ["Structural Design", "Project Management"]
+  },
+  {
+    "domain": "Environment & Sustainability",
+    "sub_domain": "Renewable Energy",
+    "skills": ["Energy Systems", "Environmental Policy"]
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Corporate Law",
+    "skills": ["Contract Law", "Compliance Management"]
+  },
+  {
+    "domain": "Media & Journalism",
+    "sub_domain": "Journalism",
+    "skills": ["News Writing", "Media Ethics"]
+  },
+  {
+    "domain": "Agriculture & Rural Development",
+    "sub_domain": "Agronomy",
+    "skills": ["Crop Management", "Soil Science"]
+  },
+  {
+    "domain": "Public Sector / Govt",
+    "sub_domain": "Public Policy",
+    "skills": ["Policy Analysis", "Governance Structures"]
+  },
+  {
+    "domain": "Human Resources",
+    "sub_domain": "Talent Management",
+    "skills": ["Recruitment Strategies", "Employee Engagement"]
+  },
+  {
+    "domain": "Law Enforcement / Security",
+    "sub_domain": "Cyber Security",
+    "skills": ["Network Security", "Ethical Hacking"]
+  },
+  {
+    "domain": "Hospitality & Tourism",
+    "sub_domain": "Hotel Management",
+    "skills": ["Hospitality Operations", "Tourism Marketing"]
+  },
+  {
+    "domain": "Animation & VFX",
+    "sub_domain": "3D Animation",
+    "skills": ["Character Design", "Motion Graphics"]
+  },
+  {
+    "domain": "Sports & Fitness",
+    "sub_domain": "Sports Coaching",
+    "skills": ["Athletic Training", "Sports Psychology"]
+  },
+  {
+    "domain": "Architecture & Interior Design",
+    "sub_domain": "Architectural Design",
+    "skills": ["Spatial Planning", "Sustainable Design"]
+  },
+  {
+    "domain": "E-commerce",
+    "sub_domain": "Online Retail",
+    "skills": ["Digital Store Management", "Consumer Behavior"]
+  },
+  {
+    "domain": "Sales & Distribution",
+    "sub_domain": "Sales Strategy",
+    "skills": ["Sales Techniques", "Distribution Channels"]
+  },
+  {
+    "domain": "Writing & Content",
+    "sub_domain": "Content Creation",
+    "skills": ["Copywriting", "Content Strategy"]
+  },
+  {
+    "domain": "Freelancing & Remote Work",
+    "sub_domain": "Freelance Management",
+    "skills": ["Client Acquisition", "Time Management"]
+  },
+  {
+    "domain": "Software & App Tools",
+    "sub_domain": "Software Development",
+    "skills": ["Programming Fundamentals", "Software Testing"]
+  },
+  {
+    "domain": "Fashion & Personal Branding",
+    "sub_domain": "Fashion Design",
+    "skills": ["Textile Knowledge", "Brand Development"]
+  },
+  {
+    "domain": "Gaming Industry",
+    "sub_domain": "Game Development",
+    "skills": ["Game Design", "Programming Logic"]
+  },
+  {
+    "domain": "Photography & Videography",
+    "sub_domain": "Photography",
+    "skills": ["Composition Techniques", "Photo Editing"]
+  },
+  {
+    "domain": "Language & Communication",
+    "sub_domain": "Public Speaking",
+    "skills": ["Speech Writing", "Interpersonal Communication"]
+  },
+  {
+    "domain": "Space & Astronomy",
+    "sub_domain": "Astrophysics",
+    "skills": ["Celestial Mechanics", "Data Analysis"]
+  },
+  {
+    "domain": "Psychology",
+    "sub_domain": "Counseling",
+    "skills": ["Behavioral Psychology", "Counseling Techniques"]
+  },
+  {
+    "domain": "Logistics & Transport",
+    "sub_domain": "Supply Chain",
+    "skills": ["Inventory Management", "Logistics Planning"]
+  },
+  {
+    "domain": "Real Estate",
+    "sub_domain": "Property Management",
+    "skills": ["Real Estate Law", "Property Valuation"]
+  },
+  {
+    "domain": "Energy Sector",
+    "sub_domain": "Energy Management",
+    "skills": ["Energy Conservation", "Renewable Technologies"]
+  },
+  {
+    "domain": "Language & Literature",
+    "sub_domain": "Creative Writing",
+    "skills": ["Literary Analysis", "Storytelling"]
+  },
+  {
+    "domain": "Veterinary & Animal Care",
+    "sub_domain": "Animal Health",
+    "skills": ["Veterinary Anatomy", "Animal Nutrition"]
+  },
+  {
+    "domain": "Spirituality & Wellness",
+    "sub_domain": "Mental Health",
+    "skills": ["Mindfulness Practices", "Wellness Coaching"]
+  },
+  {
+    "domain": "NGO & Social Impact",
+    "sub_domain": "Social Work",
+    "skills": ["Community Development", "Social Policy"]
+  },
+  {
+    "domain": "Banking & Insurance",
+    "sub_domain": "Banking Operations",
+    "skills": ["Financial Services", "Risk Assessment"]
+  },
+  {
+    "domain": "Defense & Paramilitary",
+    "sub_domain": "Defense Strategies",
+    "skills": ["Military Tactics", "Security Protocols"]
+  },
+  {
+    "domain": "Food & Nutrition",
+    "sub_domain": "Diet Planning",
+    "skills": ["Nutritional Science", "Meal Preparation"]
+  },
+  {
+    "domain": "Art & Craft",
+    "sub_domain": "Fine Arts",
+    "skills": ["Drawing Techniques", "Art History"]
+  },
+  {
+    "domain": "Childcare & Parenting",
+    "sub_domain": "Early Education",
+    "skills": ["Child Development", "Educational Activities"]
+  },
+  {
+    "domain": "Construction & Labour",
+    "sub_domain": "Construction Management",
+    "skills": ["Building Codes", "Site Supervision"]
+  },
+  {
+    "domain": "Govt Data & Stats",
+    "sub_domain": "Data Analysis",
+    "skills": ["Statistical Methods", "Data Interpretation"]
+  },
+  {
+    "domain": "Digital Creators",
+    "sub_domain": "Social Media",
+    "skills": ["Content Creation", "Audience Engagement"]
+  },
+  {
+    "domain": "Event Planning",
+    "sub_domain": "Event Management",
+    "skills": ["Event Logistics", "Vendor Coordination"]
+  },
+  {
+    "domain": "Telecom & Networking",
+    "sub_domain": "Network Engineering",
+    "skills": ["Network Infrastructure", "Telecommunications Systems"]
+  },
+  {
+    "domain": "Technical Support",
+    "sub_domain": "IT Helpdesk",
+    "skills": ["Troubleshooting", "Customer Service"]
+  },
+  {
+    "domain": "YouTube & Influencing",
+    "sub_domain": "Content Creation",
+    "skills": ["Video Production", "Audience Growth Strategies"]
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "domain": "Technology",
+    "subDomains": [
+      "Web Development",
+      "App Development",
+      "Data Science",
+      "Cybersecurity",
+      "Blockchain"
+    ]
+  },
+  {
+    "domain": "AI & Machine Learning",
+    "subDomains": [
+      "NLP",
+      "Computer Vision",
+      "Generative AI",
+      "AI Ethics",
+      "AI Research Assistant"
+    ]
+  },
+  {
+    "domain": "Digital Marketing",
+    "subDomains": [
+      "SEO",
+      "Social Media Marketing",
+      "Content Strategy",
+      "Affiliate Marketing",
+      "Influencer Management"
+    ]
+  },
+  {
+    "domain": "Design",
+    "subDomains": [
+      "UI/UX Design",
+      "Graphic Design",
+      "Motion Graphics",
+      "Product Design",
+      "Game Art Design"
+    ]
+  },
+  {
+    "domain": "Business & Management",
+    "subDomains": [
+      "Product Management",
+      "Business Analytics",
+      "Operations Management",
+      "Marketing Management",
+      "Sales Strategy"
+    ]
+  },
+  {
+    "domain": "Finance",
+    "subDomains": [
+      "Stock Market Trading",
+      "Investment Banking",
+      "Accounting",
+      "Financial Analysis",
+      "Cryptocurrency"
+    ]
+  },
+  {
+    "domain": "Education & Teaching",
+    "subDomains": [
+      "EdTech",
+      "Online Tutoring",
+      "Curriculum Development",
+      "Special Education",
+      "Academic Counselling"
+    ]
+  },
+  {
+    "domain": "Healthcare (Non-MBBS)",
+    "subDomains": [
+      "Medical Coding",
+      "Public Health",
+      "Health Informatics",
+      "Mental Health Counsellor",
+      "Physiotherapy Assistant"
+    ]
+  },
+  {
+    "domain": "Engineering",
+    "subDomains": [
+      "Civil Engineering",
+      "Electrical Engineering",
+      "Robotics",
+      "Mechanical CAD",
+      "IoT Systems"
+    ]
+  },
+  {
+    "domain": "Environment & Sustainability",
+    "subDomains": [
+      "Climate Research",
+      "Sustainability Consulting",
+      "Wildlife Conservation",
+      "Solar Energy Technician",
+      "Urban Farming"
+    ]
+  },
+  {
+    "domain": "Legal",
+    "subDomains": [
+      "Cyber Law",
+      "Criminal Law",
+      "Legal Research",
+      "Contract Drafting",
+      "Civil Services (Law route)"
+    ]
+  },
+  {
+    "domain": "Media & Journalism",
+    "subDomains": [
+      "Digital Journalism",
+      "Podcast Production",
+      "TV Reporting",
+      "Script Writing",
+      "Fact-Checking"
+    ]
+  },
+  {
+    "domain": "Agriculture & Rural Development",
+    "subDomains": [
+      "AgriTech",
+      "Soil Technician",
+      "Organic Farming",
+      "Drone Operator",
+      "Agriculture Officer"
+    ]
+  },
+  {
+    "domain": "Public Sector / Govt",
+    "subDomains": [
+      "UPSC",
+      "State PSC",
+      "Railway Services",
+      "Defense Entry",
+      "SSC / Bank PO"
+    ]
+  },
+  {
+    "domain": "Human Resources",
+    "subDomains": [
+      "Talent Acquisition",
+      "HR Operations",
+      "Learning & Development",
+      "Org Psychology",
+      "HR Analytics"
+    ]
+  },
+  {
+    "domain": "Law Enforcement / Security",
+    "subDomains": [
+      "Cyber Forensics",
+      "Intelligence Officer",
+      "Traffic Management",
+      "Police Services",
+      "Fire Safety"
+    ]
+  },
+  {
+    "domain": "Hospitality & Tourism",
+    "subDomains": [
+      "Hotel Management",
+      "Event Management",
+      "Travel Planning",
+      "Airline Hospitality",
+      "Tourism Influencer"
+    ]
+  },
+  {
+    "domain": "Animation & VFX",
+    "subDomains": [
+      "2D/3D Animation",
+      "Storyboarding",
+      "VFX Compositing",
+      "Character Design",
+      "Game Animation"
+    ]
+  },
+  {
+    "domain": "Sports & Fitness",
+    "subDomains": [
+      "Sports Coach",
+      "Fitness Trainer",
+      "Physiotherapist",
+      "Yoga Instructor",
+      "Sports Nutritionist"
+    ]
+  },
+  {
+    "domain": "Architecture & Interior Design",
+    "subDomains": [
+      "Residential Design",
+      "3D Modeling",
+      "Sustainable Architecture",
+      "Urban Planning",
+      "Furniture Design"
+    ]
+  },
+  {
+    "domain": "E-commerce",
+    "subDomains": [
+      "Amazon Seller",
+      "Shopify Store",
+      "Dropshipping",
+      "Product Photography",
+      "Supply Chain Analyst"
+    ]
+  },
+  {
+    "domain": "Sales & Distribution",
+    "subDomains": [
+      "Retail Manager",
+      "FMCG Sales",
+      "B2B Sales",
+      "Rural Distribution",
+      "Sales CRM Expert"
+    ]
+  },
+  {
+    "domain": "Writing & Content",
+    "subDomains": [
+      "Copywriting",
+      "Technical Writing",
+      "Creative Writing",
+      "Scriptwriting",
+      "Resume Writing"
+    ]
+  },
+  {
+    "domain": "Freelancing & Remote Work",
+    "subDomains": [
+      "Virtual Assistant",
+      "Freelancer",
+      "Fiverr Seller",
+      "Remote PM",
+      "Remote QA Tester"
+    ]
+  },
+  {
+    "domain": "Software & App Tools",
+    "subDomains": [
+      "No-code Apps",
+      "Webflow",
+      "Zapier",
+      "Excel + Power BI",
+      "Canva Design"
+    ]
+  },
+  {
+    "domain": "Fashion & Personal Branding",
+    "subDomains": [
+      "Fashion Styling",
+      "Influencer Branding",
+      "Portfolio Building",
+      "Fashion Blogging",
+      "Personal Shopper"
+    ]
+  },
+  {
+    "domain": "Gaming Industry",
+    "subDomains": [
+      "Game Testing",
+      "Game Design",
+      "Live Streamer",
+      "Esports Manager",
+      "Gaming Creator"
+    ]
+  },
+  {
+    "domain": "Photography & Videography",
+    "subDomains": [
+      "Wedding Photography",
+      "Drone Videography",
+      "YouTube Videography",
+      "Video Editing",
+      "Product Photography"
+    ]
+  },
+  {
+    "domain": "Language & Communication",
+    "subDomains": [
+      "Translator",
+      "IELTS Trainer",
+      "Voice Artist",
+      "Soft Skills Trainer",
+      "Podcast Host"
+    ]
+  },
+  {
+    "domain": "Space & Astronomy",
+    "subDomains": [
+      "Space Educator",
+      "Astronomy Outreach",
+      "Telescope Tech",
+      "Astrophotography",
+      "ISRO Assistant"
+    ]
+  },
+  {
+    "domain": "Psychology",
+    "subDomains": [
+      "Clinical Psychologist",
+      "School Counselor",
+      "Career Psychologist",
+      "Social Worker",
+      "Mental Health Blogger"
+    ]
+  },
+  {
+    "domain": "Logistics & Transport",
+    "subDomains": [
+      "Warehouse Manager",
+      "Supply Chain",
+      "Transport Planner",
+      "Inventory Controller",
+      "Fleet Manager"
+    ]
+  },
+  {
+    "domain": "Real Estate",
+    "subDomains": [
+      "Agent",
+      "Property Manager",
+      "Real Estate Photographer",
+      "Interior Consultant",
+      "Land Investment Advisor"
+    ]
+  },
+  {
+    "domain": "Energy Sector",
+    "subDomains": [
+      "Renewable Analyst",
+      "Solar Technician",
+      "Grid Engineer",
+      "Power Plant Operator",
+      "Wind Consultant"
+    ]
+  },
+  {
+    "domain": "Language & Literature",
+    "subDomains": [
+      "Author",
+      "Professor",
+      "Editor",
+      "Proofreader",
+      "Literary Critic"
+    ]
+  },
+  {
+    "domain": "Veterinary & Animal Care",
+    "subDomains": [
+      "Vet Assistant",
+      "Shelter Worker",
+      "Pet Groomer",
+      "Animal Nutritionist",
+      "Zookeeper"
+    ]
+  },
+  {
+    "domain": "Spirituality & Wellness",
+    "subDomains": [
+      "Meditation Coach",
+      "Life Coach",
+      "Tarot Reader",
+      "Wellness Blogger",
+      "Mindfulness Trainer"
+    ]
+  },
+  {
+    "domain": "NGO & Social Impact",
+    "subDomains": [
+      "Fundraising",
+      "Campaign Strategy",
+      "Mobilizer",
+      "Project Manager",
+      "Community Educator"
+    ]
+  },
+  {
+    "domain": "Banking & Insurance",
+    "subDomains": [
+      "Bank Clerk",
+      "Loan Officer",
+      "Surveyor",
+      "Credit Analyst",
+      "Relationship Manager"
+    ]
+  },
+  {
+    "domain": "Defense & Paramilitary",
+    "subDomains": [
+      "NDA Cadet",
+      "BSF Officer",
+      "Military Nurse",
+      "Army Engineer",
+      "Defense Tech Assistant"
+    ]
+  },
+  {
+    "domain": "Food & Nutrition",
+    "subDomains": [
+      "Dietician",
+      "Nutrition Coach",
+      "Product Developer",
+      "YouTube Nutritionist",
+      "Meal Planner"
+    ]
+  },
+  {
+    "domain": "Art & Craft",
+    "subDomains": [
+      "Handmade Seller",
+      "Art Teacher",
+      "Etsy Owner",
+      "Calligrapher",
+      "DIY Influencer"
+    ]
+  },
+  {
+    "domain": "Childcare & Parenting",
+    "subDomains": [
+      "Early Educator",
+      "Parenting Blogger",
+      "Daycare Manager",
+      "Nanny Trainer",
+      "Speech Therapist"
+    ]
+  },
+  {
+    "domain": "Construction & Labour",
+    "subDomains": [
+      "Site Engineer",
+      "Supervisor",
+      "Labor Consultant",
+      "Contractor",
+      "Survey Technician"
+    ]
+  },
+  {
+    "domain": "Govt Data & Stats",
+    "subDomains": [
+      "Census Enumerator",
+      "NSSO Officer",
+      "Surveyor",
+      "Data Collector",
+      "Grameen Mitra"
+    ]
+  },
+  {
+    "domain": "Digital Creators",
+    "subDomains": [
+      "Reel Creator",
+      "Shorts Expert",
+      "Branding Coach",
+      "Influencer Scriptwriter",
+      "Repurposing Editor"
+    ]
+  },
+  {
+    "domain": "Event Planning",
+    "subDomains": [
+      "Wedding Planner",
+      "Fest Organizer",
+      "Corporate Manager",
+      "Booking Agent",
+      "Production Assistant"
+    ]
+  },
+  {
+    "domain": "Telecom & Networking",
+    "subDomains": [
+      "Network Engineer",
+      "Tower Technician",
+      "WiFi Deployment",
+      "Fiber Installer",
+      "5G Support"
+    ]
+  },
+  {
+    "domain": "Technical Support",
+    "subDomains": [
+      "IT Helpdesk",
+      "Remote Tech",
+      "Mobile Repair",
+      "PC Assembler",
+      "Internet Support"
+    ]
+  },
+  {
+    "domain": "YouTube & Influencing",
+    "subDomains": [
+      "Niche YouTuber",
+      "Shorts Creator",
+      "Monetization Expert",
+      "Affiliate Creator",
+      "Reaction Host"
+    ]
+  }
+]
