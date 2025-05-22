@@ -1,0 +1,252 @@
+[
+    {
+        "domain": "Web Development",
+        "reddit": "https://www.reddit.com/r/webdev",
+        "discord": "https://discord.gg/webdev"
+    },
+    {
+        "domain": "Data Science",
+        "reddit": "https://www.reddit.com/r/datascience",
+        "discord": "https://discord.gg/datascience"
+    },
+    {
+        "domain": "Cybersecurity",
+        "reddit": "https://www.reddit.com/r/cybersecurity",
+        "discord": "https://discord.gg/cybersecurity"
+    },
+    {
+        "domain": "AI & Machine Learning",
+        "reddit": "https://www.reddit.com/r/MachineLearning",
+        "discord": "https://discord.gg/aiml"
+    },
+    {
+        "domain": "Game Development",
+        "reddit": "https://www.reddit.com/r/gamedev",
+        "discord": "https://discord.gg/gamedev"
+    },
+    {
+        "domain": "Blockchain Development",
+        "reddit": "https://www.reddit.com/r/BlockchainDev",
+        "discord": "https://discord.gg/blockchaindev"
+    },
+    {
+        "domain": "Mobile App Development",
+        "reddit": "https://www.reddit.com/r/androiddev",
+        "discord": "https://discord.gg/mobiledev"
+    },
+    {
+        "domain": "Cloud Computing",
+        "reddit": "https://www.reddit.com/r/cloudcomputing",
+        "discord": "https://discord.gg/cloudcomputing"
+    },
+    {
+        "domain": "UI/UX Design",
+        "reddit": "https://www.reddit.com/r/userexperience",
+        "discord": "https://discord.gg/uiux"
+    },
+    {
+        "domain": "Graphic Design",
+        "reddit": "https://www.reddit.com/r/graphic_design",
+        "discord": "https://discord.gg/graphicdesign"
+    },
+    {
+        "domain": "Product Design",
+        "reddit": "https://www.reddit.com/r/ProductDesign",
+        "discord": "https://discord.gg/productdesign"
+    },
+    {
+        "domain": "Motion Graphics & Animation",
+        "reddit": "https://www.reddit.com/r/AfterEffects",
+        "discord": "https://discord.gg/motiongraphics"
+    },
+    {
+        "domain": "Digital Marketing",
+        "reddit": "https://www.reddit.com/r/digital_marketing",
+        "discord": "https://discord.gg/digitalmarketing"
+    },
+    {
+        "domain": "Content Creation",
+        "reddit": "https://www.reddit.com/r/ContentCreators",
+        "discord": "https://discord.gg/contentcreators"
+    },
+    {
+        "domain": "Video Editing",
+        "reddit": "https://www.reddit.com/r/VideoEditing",
+        "discord": "https://discord.gg/videoediting"
+    },
+    {
+        "domain": "SEO Specialist",
+        "reddit": "https://www.reddit.com/r/SEO",
+        "discord": "https://discord.gg/seo"
+    },
+    {
+        "domain": "DevOps Engineering",
+        "reddit": "https://www.reddit.com/r/devops",
+        "discord": "https://discord.gg/devops"
+    },
+    {
+        "domain": "Backend Development",
+        "reddit": "https://www.reddit.com/r/backend",
+        "discord": "https://discord.gg/backenddev"
+    },
+    {
+        "domain": "Frontend Development",
+        "reddit": "https://www.reddit.com/r/frontend",
+        "discord": "https://discord.gg/frontenddev"
+    },
+    {
+        "domain": "Full Stack Development",
+        "reddit": "https://www.reddit.com/r/fullstack",
+        "discord": "https://discord.gg/fullstackdev"
+    },
+    {
+        "domain": "Robotics & Embedded Systems",
+        "reddit": "https://www.reddit.com/r/robotics",
+        "discord": "https://discord.gg/robotics"
+    },
+    {
+        "domain": "Internet of Things (IoT)",
+        "reddit": "https://www.reddit.com/r/IOT",
+        "discord": "https://discord.gg/iot"
+    },
+    {
+        "domain": "AR/VR Development",
+        "reddit": "https://www.reddit.com/r/ARVRdev",
+        "discord": "https://discord.gg/arvrdev"
+    },
+    {
+        "domain": "Business Analytics",
+        "reddit": "https://www.reddit.com/r/BusinessIntelligence",
+        "discord": "https://discord.gg/businessanalytics"
+    },
+    {
+        "domain": "Finance & Investment Banking",
+        "reddit": "https://www.reddit.com/r/finance",
+        "discord": "https://discord.gg/finance"
+    },
+    {
+        "domain": "Product Management",
+        "reddit": "https://www.reddit.com/r/ProductManagement",
+        "discord": "https://discord.gg/productmanagement"
+    },
+    {
+        "domain": "Startup & Entrepreneurship",
+        "reddit": "https://www.reddit.com/r/startups",
+        "discord": "https://discord.gg/startups"
+    },
+    {
+        "domain": "Sales & Business Development",
+        "reddit": "https://www.reddit.com/r/sales",
+        "discord": "https://discord.gg/sales"
+    },
+    {
+        "domain": "Human Resource Management",
+        "reddit": "https://www.reddit.com/r/humanresources",
+        "discord": "https://discord.gg/humanresources"
+    },
+    {
+        "domain": "Law & Legal Services",
+        "reddit": "https://www.reddit.com/r/legaladvice",
+        "discord": "https://discord.gg/legal"
+    },
+    {
+        "domain": "Psychology",
+        "reddit": "https://www.reddit.com/r/psychology",
+        "discord": "https://discord.gg/psychology"
+    },
+    {
+        "domain": "Clinical Research & Pharmacology",
+        "reddit": "https://www.reddit.com/r/clinicalresearch",
+        "discord": "https://discord.gg/clinicalresearch"
+    },
+    {
+        "domain": "Biotechnology",
+        "reddit": "https://www.reddit.com/r/biotech",
+        "discord": "https://discord.gg/biotech"
+    },
+    {
+        "domain": "Environmental Science",
+        "reddit": "https://www.reddit.com/r/environmental_science",
+        "discord": "https://discord.gg/environmentalscience"
+    },
+    {
+        "domain": "Education Technology",
+        "reddit": "https://www.reddit.com/r/edtech",
+        "discord": "https://discord.gg/edtech"
+    },
+    {
+        "domain": "Civil Engineering",
+        "reddit": "https://www.reddit.com/r/civilengineering",
+        "discord": "https://discord.gg/civilengineering"
+    },
+    {
+        "domain": "Electrical Engineering",
+        "reddit": "https://www.reddit.com/r/ElectricalEngineering",
+        "discord": "https://discord.gg/electricalengineering"
+    },
+    {
+        "domain": "Mechanical Engineering",
+        "reddit": "https://www.reddit.com/r/MechanicalEngineering",
+        "discord": "https://discord.gg/mechanicalengineering"
+    },
+    {
+        "domain": "Architecture & Urban Planning",
+        "reddit": "https://www.reddit.com/r/architecture",
+        "discord": "https://discord.gg/architecture"
+    },
+    {
+        "domain": "Journalism & Mass Communication",
+        "reddit": "https://www.reddit.com/r/journalism",
+        "discord": "https://discord.gg/journalism"
+    },
+    {
+        "domain": "Event Management",
+        "reddit": "https://www.reddit.com/r/eventplanning",
+        "discord": "https://discord.gg/eventmanagement"
+    },
+    {
+        "domain": "Hospitality & Hotel Management",
+        "reddit": "https://www.reddit.com/r/hospitality",
+        "discord": "https://discord.gg/hospitality"
+    },
+    {
+        "domain": "Fashion Design",
+        "reddit": "https://www.reddit.com/r/fashiondesign",
+        "discord": "https://discord.gg/fashiondesign"
+    },
+    {
+        "domain": "Interior Design",
+        "reddit": "https://www.reddit.com/r/InteriorDesign",
+        "discord": "https://discord.gg/interiordesign"
+    },
+    {
+        "domain": "Social Work & NGOs",
+        "reddit": "https://www.reddit.com/r/socialwork",
+        "discord": "https://discord.gg/socialwork"
+    },
+    {
+        "domain": "Public Policy & Governance",
+        "reddit": "https://www.reddit.com/r/publicpolicy",
+        "discord": "https://discord.gg/publicpolicy"
+    },
+    {
+        "domain": "Political Science & Diplomacy",
+        "reddit": "https://www.reddit.com/r/politicalscience",
+        "discord": "https://discord.gg/politicalscience"
+    },
+    {
+        "domain": "Linguistics & Language Services",
+        "reddit": "https://www.reddit.com/r/linguistics",
+        "discord": "https://discord.gg/linguistics"
+    },
+    {
+        "domain": "Music Production & Sound Engineering",
+        "reddit": "https://www.reddit.com/r/WeAreTheMusicMakers",
+        "discord": "https://discord.gg/musicproduction"
+    },
+    {
+        "domain": "Sports Management & Coaching",
+        "reddit": "https://www.reddit.com/r/sportsmanagement",
+        "discord": "https://discord.gg/sportsmanagement"
+    }
+]

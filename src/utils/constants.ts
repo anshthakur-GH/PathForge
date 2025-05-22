@@ -22,6 +22,7 @@ export const sections: Section[] = [
     title: 'Join Peer Communities',
     description: 'Connect with students, share resources, and grow together by domain.',
     buttonText: 'Explore Communities',
+    link: '/communities'
   },
   {
     id: 'resume-builder',
@@ -29,6 +30,7 @@ export const sections: Section[] = [
     title: 'Build a Powerful Resume',
     description: 'Generate a clean, professional resume with zero effort.',
     buttonText: 'Create Resume',
+    link: '/resume-builder'
   },
   {
     id: 'counselling',

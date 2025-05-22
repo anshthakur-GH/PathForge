@@ -1,0 +1,4541 @@
+[
+    {
+      "college_name": "Delhi Institute of Tool Engineering",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Government of NCT of Delhi",
+      "type": "Government",
+      "courses_offered": ["B.Tech in Tool Engineering", "Diploma in Tool & Die Making"],
+      "fees": {
+        "btech": "₹1,00,000/year",
+        "diploma": "₹50,000/year"
+      },
+      "contact": {
+        "website": "https://www.india.gov.in/official-website-delhi-institute-tool-engineering",
+        "email": "dite@delhi.gov.in",
+        "phone": "+91-11-26388920"
+      }
+    },
+    {
+      "college_name": "Sarada Ukil School of Art",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Board of Technical Education, Delhi",
+      "type": "Government Aided",
+      "courses_offered": ["Diploma in Art of Drawing Teacher"],
+      "fees": {
+        "diploma": "₹20,000 - ₹24,700/year"
+      },
+      "contact": {
+        "website": "https://dseu.ac.in/institutes/sarada-ukil-school-of-art/index.html",
+        "email": "saradaukil@yahoo.in",
+        "phone": "+91-11-23321372"
+      }
+    },
+    {
+      "college_name": "Centre for Management Education - AIMA",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "All India Management Association",
+      "type": "Private",
+      "courses_offered": ["PGDM", "PGDITM", "Ph.D. in Business Administration"],
+      "fees": {
+        "pgdm": "₹1,50,000/year",
+        "pgditm": "₹1,20,000/year"
+      },
+      "contact": {
+        "website": "https://www.aima.in/management-education",
+        "email": "cme@aima.in",
+        "phone": "+91-11-24645100"
+      }
+    },
+    {
+      "college_name": "College of Art",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "University of Delhi",
+      "type": "Government",
+      "courses_offered": ["Bachelor of Fine Arts (BFA)", "Master of Fine Arts (MFA)", "Ph.D. in Visual Arts"],
+      "fees": {
+        "bfa": "₹10,000/year",
+        "mfa": "₹12,000/year"
+      },
+      "contact": {
+        "website": "https://colart.delhi.gov.in/",
+        "email": "principal@colart.delhi.gov.in",
+        "phone": "+91-11-23383612"
+      }
+    },
+    {
+      "college_name": "Bhai Parmanand Institute of Business Studies",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Delhi Skill and Entrepreneurship University",
+      "type": "Government",
+      "courses_offered": ["Diploma in Modern Office Practice", "Diploma in Computer Engineering"],
+      "fees": {
+        "diploma": "₹10,000 - ₹15,000/year"
+      },
+      "contact": {
+        "website": "https://bpibs.in/",
+        "email": "info@bpibs.in",
+        "phone": "+91-11-22543891"
+      }
+    },
+    {
+      "college_name": "Ambedkar Institute of Advanced Communication Technologies and Research",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Government",
+      "courses_offered": ["B.Tech in Computer Science", "B.Tech in Electronics and Communication"],
+      "fees": {
+        "btech": "₹1,20,000/year"
+      },
+      "contact": {
+        "website": "https://ait.delhi.gov.in/",
+        "email": "info@aiactr.ac.in",
+        "phone": "+91-11-21210083"
+      }
+    },
+    {
+      "college_name": "Bharati Vidyapeeth University Institute of Management and Research, New Delhi",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Bharati Vidyapeeth (Deemed to be University)",
+      "type": "Private",
+      "courses_offered": ["MBA", "BBA"],
+      "fees": {
+        "mba": "₹4,20,000/year",
+        "bba": "₹2,50,000/year"
+      },
+      "contact": {
+        "website": "https://www.bvuniversity.edu.in/bvimr/",
+        "email": "bvimr@bharatividyapeeth.edu",
+        "phone": "+91-11-25284396"
+      }
+    },
+    {
+      "college_name": "International Management Centre",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "UGC Recognized",
+      "type": "Private",
+      "courses_offered": ["BBA", "MBA", "PGDM"],
+      "fees": {
+        "bba": "₹2,00,000/year",
+        "mba": "₹3,00,000/year",
+        "pgdm": "₹3,50,000/year"
+      },
+      "contact": {
+        "website": "https://www.imc-nd.ac.in/",
+        "email": "info@imc-nd.ac.in",
+        "phone": "+91-11-24626446"
+      }
+    },
+    {
+      "college_name": "R.C. Institute of Technology",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["BCA", "B.Ed", "MCA"],
+      "fees": {
+        "bca": "₹87,000/year",
+        "bed": "₹87,400/year",
+        "mca": "₹1,17,000/year"
+      },
+      "contact": {
+        "website": "https://collegedunia.com/college/18479-rc-institute-of-technology-rcit-new-delhi",
+        "email": "info@rcit.edu.in",
+        "phone": "+91-11-25357350"
+      }
+    },
+    {
+      "college_name": "FORE School of Management",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved",
+      "type": "Private",
+      "courses_offered": ["PGDM", "PGDM in International Business", "PGDM in Financial Management", "PGDM in Big Data Analytics"],
+      "fees": {
+        "pgdm": "₹7,00,000/year"
+      },
+      "contact": {
+        "website": "https://www.fsm.ac.in/",
+        "email": "info@fsm.ac.in",
+        "phone": "+91-11-41242424"
+      }
+    },
+    {
+      "college_name": "IILM Institute for Higher Education",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved, UGC Recognized",
+      "type": "Private",
+      "courses_offered": ["PGDM", "BBA", "FPM"],
+      "fees": {
+        "pgdm": "₹6,00,000/year",
+        "bba": "₹3,00,000/year",
+        "fpm": "₹2,50,000/year"
+      },
+      "contact": {
+        "website": "https://www.iilm.edu/",
+        "email": "info.iilm@iilm.edu",
+        "phone": "+91-11-26173177"
+      }
+    },
+    {
+      "college_name": "Institute of Marketing & Management - Business School",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved",
+      "type": "Private",
+      "courses_offered": ["PGDM", "MBA Equivalent"],
+      "fees": {
+        "pgdm": "₹5,00,000/year"
+      },
+      "contact": {
+        "website": "https://www.immindia.edu.in/",
+        "email": "admissions@immindia.edu.in",
+        "phone": "+91-11-47124100"
+      }
+    },
+    {
+      "college_name": "Banarsidas Chandiwala Institute of Hotel Management & Catering Technology",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["BHMCT (Bachelor in Hotel Management and Catering Technology)"],
+      "fees": {
+        "bhmct": "₹1,35,000/year"
+      },
+      "contact": {
+        "website": "https://www.bcihmct.ac.in/",
+        "email": "info@bcihmct.ac.in",
+        "phone": "+91-11-49020200"
+      }
+    },
+    {
+      "college_name": "Bharatiya Vidya Bhavan’s Usha & Lakshmi Mittal Institute of Management",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["MBA"],
+      "fees": {
+        "mba": "₹1,50,000/year"
+      },
+      "contact": {
+        "website": "https://www.bulmim.ac.in/",
+        "email": "admissions@bulmim.ac.in",
+        "phone": "+91-11-23389949"
+      }
+    },
+    {
+      "college_name": "Aditya Institute of Technology",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Board of Technical Education, Delhi",
+      "type": "Private",
+      "courses_offered": ["Diploma in Engineering (ECE, CSE, IT, Medical Lab Tech)"],
+      "fees": {
+        "diploma": "₹35,000 - ₹45,000/year"
+      },
+      "contact": {
+        "website": "https://www.aitdelhi.in/",
+        "email": "info@aitdelhi.in",
+        "phone": "+91-11-28521188"
+      }
+    },
+    {
+      "college_name": "Delhi Institute of Advanced Studies",
+      "location": {
+        "city": "Rohini, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["MBA", "BBA", "B.Com (Hons.)"],
+      "fees": {
+        "mba": "₹1,37,000/year",
+        "bba": "₹90,000/year",
+        "bcom": "₹85,000/year"
+      },
+      "contact": {
+        "website": "https://www.dias.ac.in/",
+        "email": "info@dias.ac.in",
+        "phone": "+91-11-27932742"
+      }
+    },
+    {
+      "college_name": "Bhagwan Parshuram Institute of Technology",
+      "location": {
+        "city": "Rohini, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["B.Tech", "MBA"],
+      "fees": {
+        "btech": "₹1,10,000/year",
+        "mba": "₹1,20,000/year"
+      },
+      "contact": {
+        "website": "https://www.bpitindia.com/",
+        "email": "info@bpitindia.com",
+        "phone": "+91-11-27582924"
+      }
+    },
+    {
+      "college_name": "Vivekananda Institute of Professional Studies-Technical Campus",
+      "location": {
+        "city": "Pitampura, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["B.Tech", "BBA", "BA LLB", "MBA"],
+      "fees": {
+        "btech": "₹1,30,000/year",
+        "mba": "₹1,50,000/year",
+        "bba": "₹90,000/year"
+      },
+      "contact": {
+        "website": "https://www.vips.edu/",
+        "email": "info@vips.edu",
+        "phone": "+91-11-27343401"
+      }
+    },
+    {
+      "college_name": "Tecnia Institute of Advanced Studies",
+      "location": {
+        "city": "Rohini, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["MBA", "BCA", "BBA", "BJMC"],
+      "fees": {
+        "mba": "₹1,00,000/year",
+        "bca": "₹85,000/year",
+        "bba": "₹85,000/year",
+        "bjmc": "₹85,000/year"
+      },
+      "contact": {
+        "website": "https://tiaspg.tecnia.in/",
+        "email": "info@tecnia.in",
+        "phone": "+91-11-27555607"
+      }
+    },
+    {
+      "college_name": "Rukmini Devi Institute of Advanced Studies",
+      "location": {
+        "city": "Rohini, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["MBA", "BBA", "B.Com (Hons.)"],
+      "fees": {
+        "mba": "₹1,10,000/year",
+        "bba": "₹90,000/year",
+        "bcom": "₹85,000/year"
+      },
+      "contact": {
+        "website": "https://rdias.ac.in/",
+        "email": "info@rdias.ac.in",
+        "phone": "+91-11-27864596"
+      }
+    },
+    {
+      "college_name": "HMR Institute of Technology and Management",
+      "location": {
+        "city": "Hamidpur, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["B.Tech", "MBA"],
+      "fees": {
+        "btech": "₹1,10,000/year",
+        "mba": "₹1,20,000/year"
+      },
+      "contact": {
+        "website": "http://hmritm.ac.in/",
+        "email": "info@hmritm.ac.in",
+        "phone": "+91-11-27724114"
+      }
+    },
+    {
+      "college_name": "Jagan Institute of Management Studies Technical Campus",
+      "location": {
+        "city": "Rohini, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["PGDM", "MCA", "BBA", "BCA"],
+      "fees": {
+        "pgdm": "₹4,50,000/year",
+        "bba": "₹90,000/year",
+        "bca": "₹85,000/year"
+      },
+      "contact": {
+        "website": "https://www.jimsindia.org/",
+        "email": "admissions@jimsindia.org",
+        "phone": "+91-11-45184100"
+      }
+    },
+    {
+      "college_name": "Gitarattan International Business School",
+      "location": {
+        "city": "Rohini, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["MBA", "BBA", "B.Com (Hons.)"],
+      "fees": {
+        "mba": "₹1,10,000/year",
+        "bba": "₹90,000/year",
+        "bcom": "₹85,000/year"
+      },
+      "contact": {
+        "website": "https://gibs.edu.in/",
+        "email": "info@gibs.edu.in",
+        "phone": "+91-11-27555601"
+      }
+    },
+    {
+      "college_name": "S.B. College of Science and Technology (Subramaniam Bharti College of Science & Technology)",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Not Publicly Listed",
+      "type": "Private",
+      "courses_offered": ["Engineering", "Science and Technology Programs"],
+      "fees": {
+        "average": "₹80,000 - ₹1,20,000/year"
+      },
+      "contact": {
+        "website": "N/A",
+        "email": "N/A",
+        "phone": "N/A"
+      }
+    },
+    {
+      "college_name": "Chhotu Ram Rural Institute of Technology",
+      "location": {
+        "city": "Kanjhawala, Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Directorate of Training and Technical Education, Govt. of Delhi",
+      "type": "Government Aided",
+      "courses_offered": ["Diploma in Engineering (Civil, Electrical, etc.)"],
+      "fees": {
+        "diploma": "₹8,000 - ₹12,000/year"
+      },
+      "contact": {
+        "website": "http://crritonline.com/",
+        "email": "crrit2013@gmail.com",
+        "phone": "+91-11-25953442"
+      }
+    },
+    {
+      "college_name": "Delhi College of Engineering (now DTU - Delhi Technological University)",
+      "location": {
+        "city": "Bawana Road, Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Delhi Technological University (State Govt. University)",
+      "type": "Government",
+      "courses_offered": ["B.Tech", "M.Tech", "PhD"],
+      "fees": {
+        "btech": "₹1,90,000/year",
+        "mtech": "₹1,20,000/year"
+      },
+      "contact": {
+        "website": "http://dtu.ac.in/",
+        "email": "registrar@dtu.ac.in",
+        "phone": "+91-11-27871018"
+      }
+    },
+    {
+      "college_name": "Sri Sukhmani Institute of Management",
+      "location": {
+        "city": "Dwarka, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved",
+      "type": "Private",
+      "courses_offered": ["PGDM"],
+      "fees": {
+        "pgdm": "₹2,50,000/year"
+      },
+      "contact": {
+        "website": "http://www.srisukhmanigroup.edu.in/",
+        "email": "info@srisukhmanigroup.edu.in",
+        "phone": "+91-11-28031540"
+      }
+    },
+    {
+      "college_name": "Northern India Engineering College (now Dr. Akhilesh Das Gupta Institute of Technology & Management)",
+      "location": {
+        "city": "Shastri Park, Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["B.Tech", "MBA"],
+      "fees": {
+        "btech": "₹1,25,000/year",
+        "mba": "₹1,35,000/year"
+      },
+      "contact": {
+        "website": "https://adgitmdelhi.ac.in/",
+        "email": "info@adgitmdelhi.ac.in",
+        "phone": "+91-11-49905900"
+      }
+    },
+    {
+      "college_name": "Banarsidas Chandiwala Institute of Professional Studies",
+      "location": {
+        "city": "Dwarka, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["BBA", "B.Com (Hons.)"],
+      "fees": {
+        "bba": "₹90,000/year",
+        "bcom": "₹85,000/year"
+      },
+      "contact": {
+        "website": "https://www.bcip.ac.in/",
+        "email": "info@bcip.ac.in",
+        "phone": "+91-11-25087597"
+      }
+    },
+    {
+      "college_name": "Maharaja Surajmal Institute of Technology",
+      "location": {
+        "city": "Janakpuri, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["B.Tech"],
+      "fees": {
+        "btech": "₹1,25,000/year"
+      },
+      "contact": {
+        "website": "https://www.msit.in/",
+        "email": "info@msit.in",
+        "phone": "+91-11-25552667"
+      }
+    },
+    {
+      "college_name": "G.B. Pant Govt. Engineering College",
+      "location": {
+        "city": "Okhla, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Government",
+      "courses_offered": ["B.Tech"],
+      "fees": {
+        "btech": "₹40,000/year"
+      },
+      "contact": {
+        "website": "http://gbpec.edu.in/",
+        "email": "principal@gbpec.edu.in",
+        "phone": "+91-11-26382314"
+      }
+    },
+    {
+      "college_name": "Indraprastha Institute of Information Technology - Delhi (IIIT-D)",
+      "location": {
+        "city": "Okhla Industrial Estate, Phase-III, Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "State University (Autonomous)",
+      "type": "Government",
+      "courses_offered": ["B.Tech", "M.Tech", "PhD"],
+      "fees": {
+        "btech": "₹2,00,000/year",
+        "mtech": "₹1,80,000/year"
+      },
+      "contact": {
+        "website": "https://www.iiitd.ac.in/",
+        "email": "info@iiitd.ac.in",
+        "phone": "+91-11-26907400"
+      }
+    },
+    {
+      "college_name": "Vastu Kala Academy",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["Bachelor of Architecture (B.Arch)"],
+      "fees": {
+        "barch": "₹1,15,000/year"
+      },
+      "contact": {
+        "website": "http://www.vkast.org/",
+        "email": "vka@vkast.org",
+        "phone": "+91-11-26697945"
+      }
+    },
+    {
+      "college_name": "Meerabai Institute of Technology",
+      "location": {
+        "city": "Maharani Bagh, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Board of Technical Education, Govt. of NCT of Delhi",
+      "type": "Government",
+      "courses_offered": ["Diploma in Engineering", "Pharmacy"],
+      "fees": {
+        "diploma": "₹5,000 - ₹8,000/year"
+      },
+      "contact": {
+        "website": "http://www.mit.delhi.gov.in/",
+        "email": "meerabaitpolytechnic@yahoo.com",
+        "phone": "+91-11-26348793"
+      }
+    },
+    {
+      "college_name": "New Delhi Institute of Management",
+      "location": {
+        "city": "Tughlakabad, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved",
+      "type": "Private",
+      "courses_offered": ["PGDM"],
+      "fees": {
+        "pgdm": "₹4,50,000/year"
+      },
+      "contact": {
+        "website": "https://www.ndimdelhi.org/",
+        "email": "admissions@ndimdelhi.org",
+        "phone": "+91-11-40111000"
+      }
+    },
+    {
+      "college_name": "Jagannath International Management School",
+      "location": {
+        "city": "Kalkaji / Vasant Kunj, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["PGDM", "BBA", "BCA"],
+      "fees": {
+        "pgdm": "₹4,00,000/year",
+        "bba": "₹90,000/year"
+      },
+      "contact": {
+        "website": "https://www.jimsindia.org/",
+        "email": "info@jimsindia.org",
+        "phone": "+91-11-40619200"
+      }
+    },
+    {
+      "college_name": "Periyar Management and Computer College",
+      "location": {
+        "city": "Jasola, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["MBA"],
+      "fees": {
+        "mba": "₹1,20,000/year"
+      },
+      "contact": {
+        "website": "https://www.pmccdelhi.com/",
+        "email": "admissions@pmccdelhi.com",
+        "phone": "+91-11-29962091"
+      }
+    },
+    {
+      "college_name": "Asia-Pacific Institute of Management",
+      "location": {
+        "city": "Jasola, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved",
+      "type": "Private",
+      "courses_offered": ["PGDM", "MBA (dual)"],
+      "fees": {
+        "pgdm": "₹5,50,000/year"
+      },
+      "contact": {
+        "website": "https://www.asiapacific.edu/",
+        "email": "admission@asiapacific.edu",
+        "phone": "+91-11-42094800"
+      }
+    },
+    {
+      "college_name": "Jamia Hamdard",
+      "location": {
+        "city": "Hamdard Nagar, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Deemed to be University",
+      "type": "Private",
+      "courses_offered": ["Pharmacy", "MBBS", "B.Tech", "MBA", "BBA"],
+      "fees": {
+        "mbbs": "₹12,00,000/year",
+        "btech": "₹1,50,000/year",
+        "mba": "₹2,00,000/year"
+      },
+      "contact": {
+        "website": "https://jamiahamdard.edu/",
+        "email": "info@jamiahamdard.ac.in",
+        "phone": "+91-11-26059688"
+      }
+    },
+    {
+      "college_name": "National Power Training Institute (Northern Region)",
+      "location": {
+        "city": "Badarpur, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Ministry of Power, Govt. of India",
+      "type": "Government",
+      "courses_offered": ["PGDC in Power Plant Engineering", "MBA (Power Management)"],
+      "fees": {
+        "pgdc": "₹2,50,000 (total)",
+        "mba": "₹1,50,000/year"
+      },
+      "contact": {
+        "website": "https://npti.gov.in/",
+        "email": "nptinr@yahoo.com",
+        "phone": "+91-11-26940722"
+      }
+    },
+    {
+      "college_name": "Jamia Millia Islamia (A Central University)",
+      "location": {
+        "city": "Jamia Nagar, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Central University",
+      "type": "Government",
+      "courses_offered": ["B.Tech", "BBA", "MBA", "Mass Communication", "Law", "Architecture", "Humanities"],
+      "fees": {
+        "btech": "₹13,000/year",
+        "mba": "₹47,000/year"
+      },
+      "contact": {
+        "website": "https://www.jmi.ac.in/",
+        "email": "vcoffice@jmi.ac.in",
+        "phone": "+91-11-26981717"
+      }
+    },
+    {
+      "college_name": "Delhi Institute of Pharmaceutical Sciences and Research",
+      "location": {
+        "city": "Pushp Vihar, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Government",
+      "courses_offered": ["B.Pharm", "M.Pharm", "Ph.D"],
+      "fees": {
+        "bpharm": "₹20,000/year"
+      },
+      "contact": {
+        "website": "http://dipsar.ac.in/",
+        "email": "info@dipsar.ac.in",
+        "phone": "+91-11-29554649"
+      }
+    },
+    {
+      "college_name": "TERI School of Advanced Studies (TERI University)",
+      "location": {
+        "city": "Vasant Kunj, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Deemed to be University",
+      "type": "Private",
+      "courses_offered": ["M.Sc", "MBA (Sustainability)", "Ph.D"],
+      "fees": {
+        "msc": "₹2,20,000/year",
+        "mba": "₹3,00,000/year"
+      },
+      "contact": {
+        "website": "https://www.terisas.ac.in/",
+        "email": "registrar@terisas.ac.in",
+        "phone": "+91-11-71800222"
+      }
+    },
+    {
+      "college_name": "Banarsidas Chandiwala Institute of Information Technology",
+      "location": {
+        "city": "Kalkaji, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["BCA", "MCA"],
+      "fees": {
+        "bca": "₹1,05,000/year",
+        "mca": "₹1,25,000/year"
+      },
+      "contact": {
+        "website": "http://www.bciit.ac.in/",
+        "email": "info@bciit.ac.in",
+        "phone": "+91-11-49020200"
+      }
+    },
+    {
+      "college_name": "Sri Sharada Institute of Indian Management Research",
+      "location": {
+        "city": "Satya Niketan, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved",
+      "type": "Private",
+      "courses_offered": ["PGDM", "MBA"],
+      "fees": {
+        "pgdm": "₹3,50,000/year"
+      },
+      "contact": {
+        "website": "http://www.ssimr.ac.in/",
+        "email": "info@ssimr.ac.in",
+        "phone": "+91-11-24115614"
+      }
+    },
+    {
+      "college_name": "Entrepreneurship & Management Processes International (EMPI)",
+      "location": {
+        "city": "Chattarpur, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved",
+      "type": "Private",
+      "courses_offered": ["PGDM", "Executive MBA"],
+      "fees": {
+        "pgdm": "₹3,95,000/year"
+      },
+      "contact": {
+        "website": "https://empiindia.com/",
+        "email": "admissions@empi.ac.in",
+        "phone": "+91-11-26653764"
+      }
+    },
+    {
+      "college_name": "International Management Institute (IMI Delhi)",
+      "location": {
+        "city": "Qutub Institutional Area, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved, NBA Accredited",
+      "type": "Private",
+      "courses_offered": ["PGDM", "PGDM HRM", "FPM"],
+      "fees": {
+        "pgdm": "₹9,20,000/year"
+      },
+      "contact": {
+        "website": "https://www.imi.edu/delhi/",
+        "email": "admissions@imi.edu",
+        "phone": "+91-11-47194100"
+      }
+    },
+    {
+      "college_name": "Safdarjung Hospital and Vardhman Mahavir Medical College (VMMC)",
+      "location": {
+        "city": "Ansari Nagar, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Government",
+      "courses_offered": ["MBBS", "MD", "MS", "Nursing"],
+      "fees": {
+        "mbbs": "₹33,500/year"
+      },
+      "contact": {
+        "website": "http://www.vmmc-sjh.nic.in/",
+        "email": "vmmc-sjh@nic.in",
+        "phone": "+91-11-26165060"
+      }
+    },
+    {
+      "college_name": "Amity School of Engineering & Technology",
+      "location": {
+        "city": "Bijwasan, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["B.Tech", "M.Tech"],
+      "fees": {
+        "btech": "₹1,35,000/year"
+      },
+      "contact": {
+        "website": "http://www.amity.edu/ase/",
+        "email": "admissions@amity.edu",
+        "phone": "+91-11-29562006"
+      }
+    },
+    {
+      "college_name": "Lal Bahadur Shastri Institute of Management (LBSIM)",
+      "location": {
+        "city": "Dwarka, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved, NBA Accredited",
+      "type": "Private",
+      "courses_offered": ["PGDM", "PGDM Finance", "PGDM R&BA"],
+      "fees": {
+        "pgdm": "₹5,50,000/year"
+      },
+      "contact": {
+        "website": "https://www.lbsim.ac.in/",
+        "email": "admission@lbsim.ac.in",
+        "phone": "+91-11-25307700"
+      }
+    },
+    {
+      "college_name": "Ch. Brahm Prakash Government Engineering College",
+      "location": {
+        "city": "Jaffarpur, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Government",
+      "courses_offered": ["B.Tech (Civil)", "B.Tech (Mechanical)"],
+      "fees": {
+        "btech": "₹35,000/year"
+      },
+      "contact": {
+        "website": "http://chbpgcet.delhi.gov.in/",
+        "email": "cbpgec@rediffmail.com",
+        "phone": "+91-11-25318172"
+      }
+    },
+    {
+      "college_name": "Rajokari Institute of Technology",
+      "location": {
+        "city": "Rajokri, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Board of Technical Education, Delhi",
+      "type": "Government",
+      "courses_offered": ["Diploma in Engineering"],
+      "fees": {
+        "diploma": "₹5,000/year"
+      },
+      "contact": {
+        "website": "https://itidelhi.admissions.nic.in/",
+        "email": "info@itidelhi.org",
+        "phone": "+91-11-25062277"
+      }
+    },
+    {
+      "college_name": "Netaji Subhas Institute of Technology (NSIT)",
+      "location": {
+        "city": "Dwarka, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "University of Delhi (Now NSUT)",
+      "type": "Government",
+      "courses_offered": ["B.Tech", "M.Tech", "Ph.D"],
+      "fees": {
+        "btech": "₹1,90,000/year"
+      },
+      "contact": {
+        "website": "http://www.nsut.ac.in/",
+        "email": "registrar@nsut.ac.in",
+        "phone": "+91-11-25099050"
+      }
+    },
+    {
+      "college_name": "Guru Gobind Singh Indraprastha University (GGSIPU)",
+      "location": {
+        "city": "Dwarka, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "State University",
+      "type": "Government",
+      "courses_offered": ["B.Tech", "MBA", "LLB", "BBA", "MCA"],
+      "fees": {
+        "btech": "₹70,000/year",
+        "mba": "₹80,000/year"
+      },
+      "contact": {
+        "website": "http://www.ipu.ac.in/",
+        "email": "ggsipu.pr@delhi.gov.in",
+        "phone": "+91-11-25302167"
+      }
+    },
+    {
+      "college_name": "Integrated Institute of Technology",
+      "location": {
+        "city": "Dwarka, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Board of Technical Education, Delhi",
+      "type": "Government",
+      "courses_offered": ["Diploma in IT", "Electronics", "Pharmacy"],
+      "fees": {
+        "diploma": "₹6,000/year"
+      },
+      "contact": {
+        "website": "https://iitdwarka.in/",
+        "email": "principal.iit.dwarka@gmail.com",
+        "phone": "+91-11-28082514"
+      }
+    },
+    {
+      "college_name": "Baba Haridass College of Pharmacy & Technology",
+      "location": {
+        "city": "Jharoda Kalan, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Board of Technical Education, Delhi",
+      "type": "Private",
+      "courses_offered": ["Diploma in Pharmacy", "Diploma in Engineering"],
+      "fees": {
+        "diploma_pharmacy": "₹45,000/year"
+      },
+      "contact": {
+        "website": "http://bhcp.in/",
+        "email": "info@bhcp.in",
+        "phone": "+91-11-25315907"
+      }
+    },
+    {
+      "college_name": "DPC Institute of Management",
+      "location": {
+        "city": "Dwarka, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "GGSIPU",
+      "type": "Private",
+      "courses_offered": ["BBA", "BCA"],
+      "fees": {
+        "bba": "₹95,000/year",
+        "bca": "₹95,000/year"
+      },
+      "contact": {
+        "website": "https://dpcip.in/",
+        "email": "info@dpcip.in",
+        "phone": "+91-11-28083491"
+      }
+    },
+    {
+      "college_name": "Fortune Institute of International Business",
+      "location": {
+        "city": "Vasant Vihar, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved",
+      "type": "Private",
+      "courses_offered": ["PGDM"],
+      "fees": {
+        "pgdm": "₹4,00,000/year"
+      },
+      "contact": {
+        "website": "https://www.fortune.edu.in/",
+        "email": "info@fiib.edu.in",
+        "phone": "+91-11-47285000"
+      }
+    },
+    {
+      "college_name": "Apeejay School of Management",
+      "location": {
+        "city": "Dwarka, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved",
+      "type": "Private",
+      "courses_offered": ["PGDM"],
+      "fees": {
+        "pgdm": "₹3,75,000/year"
+      },
+      "contact": {
+        "website": "https://www.apeejay.edu/asm/",
+        "email": "asm.dwk.del@apeejay.edu",
+        "phone": "+91-11-25363979"
+      }
+    },
+    {
+      "college_name": "Maharaja Agrasen Institute of Technology",
+      "location": {
+        "city": "Rohini, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "GGSIPU",
+      "type": "Private",
+      "courses_offered": ["B.Tech", "MBA"],
+      "fees": {
+        "btech": "₹1,10,000/year",
+        "mba": "₹1,20,000/year"
+      },
+      "contact": {
+        "website": "https://mait.ac.in/",
+        "email": "principal@mait.ac.in",
+        "phone": "+91-11-27582091"
+      }
+    },
+    {
+      "college_name": "Guru Nanak Institute of Management",
+      "location": {
+        "city": "Punjabi Bagh, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["MBA", "BBA"],
+      "fees": {
+        "mba": "₹1,20,000/year",
+        "bba": "₹95,000/year"
+      },
+      "contact": {
+        "website": "http://www.gnimonline.org/",
+        "email": "info@gnimonline.org",
+        "phone": "+91-11-25101001"
+      }
+    },
+    {
+      "college_name": "International Institute of Health Management Research",
+      "location": {
+        "city": "Dwarka, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved",
+      "type": "Private",
+      "courses_offered": ["PGDHM (Health & Hospital Management)"],
+      "fees": {
+        "pgdhm": "₹3,00,000/year"
+      },
+      "contact": {
+        "website": "https://www.iihmrdelhi.edu.in/",
+        "email": "info@iihmrdelhi.edu.in",
+        "phone": "+91-11-30418900"
+      }
+    },
+    {
+      "college_name": "Institute of Information Technology & Management (IITM)",
+      "location": {
+        "city": "Janakpuri, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "GGSIPU",
+      "type": "Private",
+      "courses_offered": ["BCA", "BBA", "MBA"],
+      "fees": {
+        "bca": "₹95,000/year",
+        "bba": "₹95,000/year",
+        "mba": "₹1,10,000/year"
+      },
+      "contact": {
+        "website": "http://www.iitmjanakpuri.com/",
+        "email": "info@iitmjp.ac.in",
+        "phone": "+91-11-28525882"
+      }
+    },
+    {
+      "college_name": "Bharati Vidyapeeth's College of Engineering",
+      "location": {
+        "city": "Paschim Vihar, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "GGSIPU",
+      "type": "Private",
+      "courses_offered": ["B.Tech"],
+      "fees": {
+        "btech": "₹1,20,000/year"
+      },
+      "contact": {
+        "website": "http://www.bvcoend.ac.in/",
+        "email": "principal@bvcoend.ac.in",
+        "phone": "+91-11-25278444"
+      }
+    },
+    {
+      "college_name": "Bharati Vidyapeeth's Institute of Computer Applications and Management",
+      "location": {
+        "city": "Paschim Vihar, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "GGSIPU",
+      "type": "Private",
+      "courses_offered": ["MCA", "MBA"],
+      "fees": {
+        "mba": "₹1,10,000/year",
+        "mca": "₹1,00,000/year"
+      },
+      "contact": {
+        "website": "http://www.bvicam.in/",
+        "email": "info@bvicam.ac.in",
+        "phone": "+91-11-25275055"
+      }
+    },
+    {
+      "college_name": "MBS School of Planning & Architecture",
+      "location": {
+        "city": "Dwarka, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "GGSIPU",
+      "type": "Private",
+      "courses_offered": ["B.Arch"],
+      "fees": {
+        "barch": "₹1,10,000/year"
+      },
+      "contact": {
+        "website": "https://www.mbspadwarka.com/",
+        "email": "info@mbspadwarka.com",
+        "phone": "+91-11-25071504"
+      }
+    },
+    {
+      "college_name": "Management Education and Research Institute (MERI)",
+      "location": {
+        "city": "Janakpuri, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "GGSIPU",
+      "type": "Private",
+      "courses_offered": ["BBA", "BCA", "MBA", "PGDM"],
+      "fees": {
+        "bba": "₹90,000/year",
+        "mba": "₹1,10,000/year"
+      },
+      "contact": {
+        "website": "https://meri.edu.in/",
+        "email": "info@meri.edu.in",
+        "phone": "+91-11-28522201"
+      }
+    },
+    {
+      "college_name": "Indian Institute of Technology Delhi (IIT Delhi)",
+      "location": {
+        "city": "Hauz Khas, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Autonomous",
+      "type": "Government",
+      "courses_offered": ["B.Tech", "M.Tech", "MBA", "Ph.D"],
+      "fees": {
+        "btech": "₹2,25,000/year"
+      },
+      "contact": {
+        "website": "https://home.iitd.ac.in/",
+        "email": "pgadm@admin.iitd.ac.in",
+        "phone": "+91-11-26597135"
+      }
+    },
+    {
+      "college_name": "National Institute of Technology Delhi (NIT Delhi)",
+      "location": {
+        "city": "Narela, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Autonomous (MHRD)",
+      "type": "Government",
+      "courses_offered": ["B.Tech", "M.Tech", "Ph.D"],
+      "fees": {
+        "btech": "₹1,90,000/year"
+      },
+      "contact": {
+        "website": "https://nitdelhi.ac.in/",
+        "email": "registrar@nitdelhi.ac.in",
+        "phone": "+91-11-27787501"
+      }
+    },
+    {
+      "college_name": "Delhi Pharmaceutical Sciences and Research University (DPSRU)",
+      "location": {
+        "city": "Pushp Vihar, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "State University",
+      "type": "Government",
+      "courses_offered": ["B.Pharm", "M.Pharm", "Ph.D"],
+      "fees": {
+        "bpharm": "₹35,000/year"
+      },
+      "contact": {
+        "website": "http://dpsru.edu.in/",
+        "email": "registrar@dpsru.edu.in",
+        "phone": "+91-11-29553830"
+      }
+    },
+    {
+      "college_name": "G.B. Pant Government Engineering College",
+      "location": {
+        "city": "Okhla, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "GGSIPU",
+      "type": "Government",
+      "courses_offered": ["B.Tech"],
+      "fees": {
+        "btech": "₹35,000/year"
+      },
+      "contact": {
+        "website": "http://gbpec.delhi.gov.in/",
+        "email": "info@gbpec.edu.in",
+        "phone": "+91-11-26382314"
+      }
+    },
+    {
+      "college_name": "Indraprastha Institute of Information Technology Delhi (IIIT-Delhi)",
+      "location": {
+        "city": "Okhla Industrial Estate, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Autonomous",
+      "type": "Government",
+      "courses_offered": ["B.Tech", "M.Tech", "Ph.D"],
+      "fees": {
+        "btech": "₹2,25,000/year"
+      },
+      "contact": {
+        "website": "https://www.iiitd.ac.in/",
+        "email": "admissions@iiitd.ac.in",
+        "phone": "+91-11-26907400"
+      }
+    },
+    {
+      "college_name": "Vastu Kala Academy",
+      "location": {
+        "city": "Siri Fort, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "GGSIPU",
+      "type": "Private",
+      "courses_offered": ["B.Arch"],
+      "fees": {
+        "barch": "₹1,10,000/year"
+      },
+      "contact": {
+        "website": "http://www.vkast.org/",
+        "email": "info@vkast.org",
+        "phone": "+91-11-26494443"
+      }
+    },
+    {
+      "college_name": "Meerabai Institute of Technology",
+      "location": {
+        "city": "Maharani Bagh, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Board of Technical Education, Delhi",
+      "type": "Government",
+      "courses_offered": ["Diploma in Engineering", "B.Voc"],
+      "fees": {
+        "diploma": "₹10,000/year"
+      },
+      "contact": {
+        "website": "http://www.mbit.nic.in/",
+        "email": "mbit.delhi@nic.in",
+        "phone": "+91-11-26344224"
+      }
+    },
+    {
+      "college_name": "New Delhi Institute of Management (NDIM)",
+      "location": {
+        "city": "Kalkaji, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved",
+      "type": "Private",
+      "courses_offered": ["PGDM", "MBA"],
+      "fees": {
+        "pgdm": "₹3,75,000/year"
+      },
+      "contact": {
+        "website": "https://www.ndimdelhi.org/",
+        "email": "info@ndimdelhi.org",
+        "phone": "+91-11-40111000"
+      }
+    },
+    {
+      "college_name": "Jagannath International Management School (JIMS)",
+      "location": {
+        "city": "Kalkaji, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "GGSIPU / AICTE",
+      "type": "Private",
+      "courses_offered": ["BBA", "BCA", "PGDM"],
+      "fees": {
+        "pgdm": "₹3,40,000/year"
+      },
+      "contact": {
+        "website": "https://www.jimskalkaji.com/",
+        "email": "admissions@jimskalkaji.com",
+        "phone": "+91-11-40619200"
+      }
+    },
+    {
+      "college_name": "Periyar Management and Computer College",
+      "location": {
+        "city": "Jasola, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "GGSIPU",
+      "type": "Private",
+      "courses_offered": ["MBA"],
+      "fees": {
+        "mba": "₹95,000/year"
+      },
+      "contact": {
+        "website": "http://www.pmccdelhi.com/",
+        "email": "info@pmccdelhi.com",
+        "phone": "+91-11-40576600"
+      }
+    },
+    {
+      "college_name": "Asia-Pacific Institute of Management",
+      "location": {
+        "city": "Jasola, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved",
+      "type": "Private",
+      "courses_offered": ["PGDM"],
+      "fees": {
+        "pgdm": "₹4,00,000/year"
+      },
+      "contact": {
+        "website": "https://www.asiapacific.edu/",
+        "email": "admission@asiapacific.edu",
+        "phone": "+91-11-42094800"
+      }
+    },
+    {
+      "college_name": "Jamia Hamdard",
+      "location": {
+        "city": "Hamdard Nagar, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Deemed University",
+      "type": "Government-Aided",
+      "courses_offered": ["B.Pharm", "MBBS", "BBA", "MBA", "B.Tech", "M.Tech"],
+      "fees": {
+        "btech": "₹1,50,000/year"
+      },
+      "contact": {
+        "website": "https://www.jamiahamdard.edu/",
+        "email": "info@jamiahamdard.ac.in",
+        "phone": "+91-11-26059688"
+      }
+    },
+    {
+      "college_name": "National Power Training Institute (Northern Region)",
+      "location": {
+        "city": "Badarpur, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Ministry of Power",
+      "type": "Government",
+      "courses_offered": ["PGDC in Power Plant Engineering", "B.Tech", "MBA"],
+      "fees": {
+        "pgdc": "₹2,00,000"
+      },
+      "contact": {
+        "website": "https://npti.gov.in/",
+        "email": "nptinr@yahoo.com",
+        "phone": "+91-11-26940722"
+      }
+    },
+    {
+      "college_name": "Jamia Millia Islamia (A Central University)",
+      "location": {
+        "city": "Jamia Nagar, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Central University",
+      "type": "Government",
+      "courses_offered": ["B.Tech", "M.Tech", "B.Arch", "MBA", "BA", "MA", "Ph.D"],
+      "fees": {
+        "btech": "₹16,150/year"
+      },
+      "contact": {
+        "website": "https://www.jmi.ac.in/",
+        "email": "info@jmi.ac.in",
+        "phone": "+91-11-26981717"
+      }
+    },
+    {
+      "college_name": "Delhi Institute of Pharmaceutical Sciences and Research (DIPSAR)",
+      "location": {
+        "city": "Pushp Vihar, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "DPSRU",
+      "type": "Government",
+      "courses_offered": ["B.Pharm", "M.Pharm", "Ph.D"],
+      "fees": {
+        "bpharm": "₹20,000/year"
+      },
+      "contact": {
+        "website": "http://dipsar.ac.in/",
+        "email": "info@dipsar.ac.in",
+        "phone": "+91-11-29553771"
+      }
+    },
+    {
+      "college_name": "TERI School of Advanced Studies (TERI University)",
+      "location": {
+        "city": "Vasant Kunj, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Deemed University",
+      "type": "Private",
+      "courses_offered": ["MBA (Sustainability)", "M.Sc (Climate Science)", "Ph.D"],
+      "fees": {
+        "mba": "₹1,75,000/year"
+      },
+      "contact": {
+        "website": "https://www.teriuniversity.ac.in/",
+        "email": "admissions@teriuniversity.ac.in",
+        "phone": "+91-11-71800222"
+      }
+    },
+    {
+      "college_name": "Banarsidas Chandiwala Institute of Information Technology",
+      "location": {
+        "city": "Kalkaji, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "GGSIPU",
+      "type": "Private",
+      "courses_offered": ["BCA", "MCA"],
+      "fees": {
+        "bca": "₹85,000/year"
+      },
+      "contact": {
+        "website": "https://www.bciit.in/",
+        "email": "info@bciit.in",
+        "phone": "+91-11-49020262"
+      }
+    },
+    {
+      "college_name": "Sri Sharada Institute of Indian Management Research",
+      "location": {
+        "city": "Vasant Kunj, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved",
+      "type": "Private",
+      "courses_offered": ["PGDM"],
+      "fees": {
+        "pgdm": "₹3,25,000/year"
+      },
+      "contact": {
+        "website": "https://sri-siim.org/",
+        "email": "info@sri-siim.org",
+        "phone": "+91-11-26124055"
+      }
+    },
+    {
+      "college_name": "Entrepreneurship & Management Processes International (EMPI)",
+      "location": {
+        "city": "Chattarpur, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved",
+      "type": "Private",
+      "courses_offered": ["PGDM"],
+      "fees": {
+        "pgdm": "₹3,50,000/year"
+      },
+      "contact": {
+        "website": "https://empi.ac.in/",
+        "email": "admissions@empi.ac.in",
+        "phone": "+91-11-26653764"
+      }
+    },
+    {
+      "college_name": "International Management Institute (IMI) Delhi",
+      "location": {
+        "city": "Qutub Institutional Area, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved",
+      "type": "Private",
+      "courses_offered": ["PGDM", "Executive PGDM", "FPM"],
+      "fees": {
+        "pgdm": "₹8,00,000/year"
+      },
+      "contact": {
+        "website": "https://www.imi.edu/delhi/",
+        "email": "admissions@imi.edu",
+        "phone": "+91-11-47194100"
+      }
+    },
+    {
+      "college_name": "Safdarjung Hospital and Vardhman Mahavir Medical College (VMMC)",
+      "location": {
+        "city": "Safdarjung, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Government",
+      "courses_offered": ["MBBS", "MD", "MS"],
+      "fees": {
+        "mbbs": "₹15,000/year"
+      },
+      "contact": {
+        "website": "http://www.vmmc-sjh.nic.in/",
+        "email": "vmmc-sjh@nic.in",
+        "phone": "+91-11-26165060"
+      }
+    },
+    {
+      "college_name": "Amity School of Engineering & Technology",
+      "location": {
+        "city": "Noida (Near Delhi Border)",
+        "state": "Uttar Pradesh"
+      },
+      "affiliation": "Amity University",
+      "type": "Private",
+      "courses_offered": ["B.Tech", "M.Tech", "Ph.D"],
+      "fees": {
+        "btech": "₹3,11,000/year"
+      },
+      "contact": {
+        "website": "https://www.amity.edu/",
+        "email": "admissions@amity.edu",
+        "phone": "+91-120-2445252"
+      }
+    },
+    {
+      "college_name": "Lal Bahadur Shastri Institute of Management (LBSIM)",
+      "location": {
+        "city": "Dwarka, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved",
+      "type": "Private",
+      "courses_offered": ["PGDM", "Executive PGDM"],
+      "fees": {
+        "pgdm": "₹5,80,000/year"
+      },
+      "contact": {
+        "website": "https://www.lbsim.ac.in/",
+        "email": "admissions@lbsim.ac.in",
+        "phone": "+91-11-25307700"
+      }
+    },
+    {
+      "college_name": "Ch. Brahm Prakash Government Engineering College",
+      "location": {
+        "city": "Jaffarpur Kalan, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Government",
+      "courses_offered": ["B.Tech", "M.Tech"],
+      "fees": {
+        "btech": "₹25,000/year"
+      },
+      "contact": {
+        "website": "http://www.cbpgec.ac.in/",
+        "email": "info@cbpgec.ac.in",
+        "phone": "+91-11-25056516"
+      }
+    },
+    {
+      "college_name": "Rajokari Institute of Technology",
+      "location": {
+        "city": "Rajokari, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["B.Tech", "Diploma"],
+      "fees": {
+        "btech": "₹40,000/year"
+      },
+      "contact": {
+        "website": "http://rajokariinstitute.in/",
+        "email": "contact@rajokariinstitute.in",
+        "phone": "+91-11-28071011"
+      }
+    },
+    {
+      "college_name": "Netaji Subhas Institute of Technology (NSIT)",
+      "location": {
+        "city": "Dwarka, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Government",
+      "courses_offered": ["B.Tech", "M.Tech", "Ph.D"],
+      "fees": {
+        "btech": "₹30,000/year"
+      },
+      "contact": {
+        "website": "http://nsit.ac.in/",
+        "email": "info@nsit.ac.in",
+        "phone": "+91-11-25093574"
+      }
+    },
+    {
+      "college_name": "Guru Gobind Singh Indraprastha University",
+      "location": {
+        "city": "Dwarka, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "State University",
+      "type": "Government",
+      "courses_offered": ["B.Tech", "MBA", "BBA", "MCA", "Ph.D"],
+      "fees": {
+        "btech": "₹20,000/year"
+      },
+      "contact": {
+        "website": "http://www.ipu.ac.in/",
+        "email": "registrar@ipu.ac.in",
+        "phone": "+91-11-25302100"
+      }
+    },
+    {
+      "college_name": "Integrated Institute of Technology",
+      "location": {
+        "city": "Dwarka, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["B.Tech", "M.Tech"],
+      "fees": {
+        "btech": "₹60,000/year"
+      },
+      "contact": {
+        "website": "http://iitipu.ac.in/",
+        "email": "info@iitipu.ac.in",
+        "phone": "+91-11-28047000"
+      }
+    },
+    {
+      "college_name": "Baba Haridass College of Pharmacy & Technology",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["B.Pharm", "D.Pharm"],
+      "fees": {
+        "bpharm": "₹70,000/year"
+      },
+      "contact": {
+        "website": "http://bhabpharmacy.org/",
+        "email": "contact@bhabpharmacy.org",
+        "phone": "+91-11-28012345"
+      }
+    },
+    {
+      "college_name": "DPC Institute of Management",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved",
+      "type": "Private",
+      "courses_offered": ["PGDM"],
+      "fees": {
+        "pgdm": "₹2,50,000/year"
+      },
+      "contact": {
+        "website": "http://dpcim.edu.in/",
+        "email": "admissions@dpcim.edu.in",
+        "phone": "+91-11-43567890"
+      }
+    },
+    {
+      "college_name": "Fortune Institute of International Business (FIIB)",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved",
+      "type": "Private",
+      "courses_offered": ["PGDM", "MBA"],
+      "fees": {
+        "pgdm": "₹4,50,000/year"
+      },
+      "contact": {
+        "website": "https://fiib.edu.in/",
+        "email": "info@fiib.edu.in",
+        "phone": "+91-11-49540300"
+      }
+    },
+    {
+      "college_name": "Apeejay School of Management",
+      "location": {
+        "city": "Dwarka, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["PGDM"],
+      "fees": {
+        "pgdm": "₹5,00,000/year"
+      },
+      "contact": {
+        "website": "http://apjeeay.edu/",
+        "email": "admissions@apeejay.edu",
+        "phone": "+91-11-42413000"
+      }
+    },
+    {
+      "college_name": "Maharaja Agrasen Institute of Technology",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["B.Tech", "M.Tech"],
+      "fees": {
+        "btech": "₹90,000/year"
+      },
+      "contact": {
+        "website": "http://mait.ac.in/",
+        "email": "contact@mait.ac.in",
+        "phone": "+91-11-25308645"
+      }
+    },
+    {
+      "college_name": "Guru Nanak Institute of Management",
+      "location": {
+        "city": "Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["MBA", "BBA"],
+      "fees": {
+        "mba": "₹2,00,000/year"
+      },
+      "contact": {
+        "website": "http://gnim.ac.in/",
+        "email": "info@gnim.ac.in",
+        "phone": "+91-11-26994444"
+      }
+    },
+    {
+      "college_name": "International Institute of Health Management Research",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "AICTE Approved",
+      "type": "Private",
+      "courses_offered": ["MBA Healthcare Management"],
+      "fees": {
+        "mba": "₹4,00,000/year"
+      },
+      "contact": {
+        "website": "https://iihmr.edu.in/",
+        "email": "admissions@iihmr.edu.in",
+        "phone": "+91-11-41235050"
+      }
+    },
+    {
+      "college_name": "Institute of Information Technology & Management",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["BCA", "MBA"],
+      "fees": {
+        "bca": "₹40,000/year",
+        "mba": "₹1,80,000/year"
+      },
+      "contact": {
+        "website": "http://iitm.edu.in/",
+        "email": "info@iitm.edu.in",
+        "phone": "+91-11-26697808"
+      }
+    },
+    {
+      "college_name": "Bharati Vidyapeeths College of Engineering",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["B.Tech"],
+      "fees": {
+        "btech": "₹70,000/year"
+      },
+      "contact": {
+        "website": "http://bvcengg.ac.in/",
+        "email": "admission@bvcengg.ac.in",
+        "phone": "+91-11-23456789"
+      }
+    },
+    {
+      "college_name": "Bharati Vidyapeeths Institute of Computer Applications and Management",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["BCA", "MBA"],
+      "fees": {
+        "bca": "₹60,000/year",
+        "mba": "₹1,50,000/year"
+      },
+      "contact": {
+        "website": "http://bvicam.edu.in/",
+        "email": "info@bvicam.edu.in",
+        "phone": "+91-11-23456788"
+      }
+    },
+    {
+      "college_name": "MBS School of Planning & Architecture",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["B.Arch", "M.Arch"],
+      "fees": {
+        "barch": "₹1,20,000/year"
+      },
+      "contact": {
+        "website": "http://mbsarch.ac.in/",
+        "email": "admissions@mbsarch.ac.in",
+        "phone": "+91-11-23456777"
+      }
+    },
+    {
+      "college_name": "Management Education and Research Institute",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": ["MBA", "BBA"],
+      "fees": {
+        "mba": "₹1,00,000/year"
+      },
+      "contact": {
+        "website": "http://meri.edu.in/",
+        "email": "info@meri.edu.in",
+        "phone": "+91-11-23456766"
+      }
+    },
+    {
+      "college_name": "Indian Institute of Technology Delhi",
+      "location": {
+        "city": "Hauz Khas, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Autonomous Institute",
+      "type": "Government",
+      "courses_offered": ["B.Tech", "M.Tech", "Ph.D", "MBA"],
+      "fees": {
+        "btech": "₹1,00,000/year"
+      },
+      "contact": {
+        "website": "http://iitd.ac.in/",
+        "email": "contact@iitd.ac.in",
+        "phone": "+91-11-26591701"
+      }
+    },
+    {
+      "college_name": "National Institute of Technology Delhi",
+      "location": {
+        "city": "Dwarka, New Delhi",
+        "state": "Delhi"
+      },
+      "affiliation": "Autonomous Institute",
+      "type": "Government",
+      "courses_offered": ["B.Tech", "M.Tech", "Ph.D"],
+      "fees": {
+        "btech": "₹75,000/year"
+      },
+      "contact": {
+        "website": "http://nitdelhi.ac.in/",
+        "email": "contact@nitdelhi.ac.in",
+        "phone": "+91-11-25055366"
+      }
+    },
+    {
+      "college_name": "ABES Engineering College",
+      "location": {
+        "city": "Ghaziabad",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Dr. A.P.J. Abdul Kalam Technical University",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "M.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b990,000/year",
+        "mtech": "\u20b91,20,000/year",
+        "mba": "\u20b91,00,000/year"
+      },
+      "contact": {
+        "website": "http://abes.ac.in",
+        "email": "info@abes.ac.in",
+        "phone": "+91-120-4275000"
+      }
+    },
+    {
+      "college_name": "ABES Institute of Technology",
+      "location": {
+        "city": "Ghaziabad",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Dr. A.P.J. Abdul Kalam Technical University",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b985,000/year",
+        "mba": "\u20b995,000/year"
+      },
+      "contact": {
+        "website": "http://abesit.in",
+        "email": "contact@abesit.in",
+        "phone": "+91-120-4275100"
+      }
+    },
+    {
+      "college_name": "ACCMAN Institute of Management",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Guru Gobind Singh Indraprastha University",
+      "type": "Private",
+      "courses_offered": [
+        "MBA",
+        "PGDM"
+      ],
+      "fees": {
+        "mba": "\u20b91,50,000/year"
+      },
+      "contact": {
+        "website": "http://accman.edu.in",
+        "email": "info@accman.edu.in",
+        "phone": "+91-120-2345678"
+      }
+    },
+    {
+      "college_name": "College 3",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college3.edu.in",
+        "email": "info@college3.edu.in",
+        "phone": "+91-120-000003"
+      }
+    },
+    {
+      "college_name": "College 4",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college4.edu.in",
+        "email": "info@college4.edu.in",
+        "phone": "+91-120-000004"
+      }
+    },
+    {
+      "college_name": "College 5",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college5.edu.in",
+        "email": "info@college5.edu.in",
+        "phone": "+91-120-000005"
+      }
+    },
+    {
+      "college_name": "College 6",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college6.edu.in",
+        "email": "info@college6.edu.in",
+        "phone": "+91-120-000006"
+      }
+    },
+    {
+      "college_name": "College 7",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college7.edu.in",
+        "email": "info@college7.edu.in",
+        "phone": "+91-120-000007"
+      }
+    },
+    {
+      "college_name": "College 8",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college8.edu.in",
+        "email": "info@college8.edu.in",
+        "phone": "+91-120-000008"
+      }
+    },
+    {
+      "college_name": "College 9",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college9.edu.in",
+        "email": "info@college9.edu.in",
+        "phone": "+91-120-000009"
+      }
+    },
+    {
+      "college_name": "College 10",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college10.edu.in",
+        "email": "info@college10.edu.in",
+        "phone": "+91-120-0000010"
+      }
+    },
+    {
+      "college_name": "College 11",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college11.edu.in",
+        "email": "info@college11.edu.in",
+        "phone": "+91-120-0000011"
+      }
+    },
+    {
+      "college_name": "College 12",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college12.edu.in",
+        "email": "info@college12.edu.in",
+        "phone": "+91-120-0000012"
+      }
+    },
+    {
+      "college_name": "College 13",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college13.edu.in",
+        "email": "info@college13.edu.in",
+        "phone": "+91-120-0000013"
+      }
+    },
+    {
+      "college_name": "College 14",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college14.edu.in",
+        "email": "info@college14.edu.in",
+        "phone": "+91-120-0000014"
+      }
+    },
+    {
+      "college_name": "College 15",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college15.edu.in",
+        "email": "info@college15.edu.in",
+        "phone": "+91-120-0000015"
+      }
+    },
+    {
+      "college_name": "College 16",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college16.edu.in",
+        "email": "info@college16.edu.in",
+        "phone": "+91-120-0000016"
+      }
+    },
+    {
+      "college_name": "College 17",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college17.edu.in",
+        "email": "info@college17.edu.in",
+        "phone": "+91-120-0000017"
+      }
+    },
+    {
+      "college_name": "College 18",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college18.edu.in",
+        "email": "info@college18.edu.in",
+        "phone": "+91-120-0000018"
+      }
+    },
+    {
+      "college_name": "College 19",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college19.edu.in",
+        "email": "info@college19.edu.in",
+        "phone": "+91-120-0000019"
+      }
+    },
+    {
+      "college_name": "College 20",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college20.edu.in",
+        "email": "info@college20.edu.in",
+        "phone": "+91-120-0000020"
+      }
+    },
+    {
+      "college_name": "College 21",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college21.edu.in",
+        "email": "info@college21.edu.in",
+        "phone": "+91-120-0000021"
+      }
+    },
+    {
+      "college_name": "College 22",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college22.edu.in",
+        "email": "info@college22.edu.in",
+        "phone": "+91-120-0000022"
+      }
+    },
+    {
+      "college_name": "College 23",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college23.edu.in",
+        "email": "info@college23.edu.in",
+        "phone": "+91-120-0000023"
+      }
+    },
+    {
+      "college_name": "College 24",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college24.edu.in",
+        "email": "info@college24.edu.in",
+        "phone": "+91-120-0000024"
+      }
+    },
+    {
+      "college_name": "College 25",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college25.edu.in",
+        "email": "info@college25.edu.in",
+        "phone": "+91-120-0000025"
+      }
+    },
+    {
+      "college_name": "College 26",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college26.edu.in",
+        "email": "info@college26.edu.in",
+        "phone": "+91-120-0000026"
+      }
+    },
+    {
+      "college_name": "College 27",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college27.edu.in",
+        "email": "info@college27.edu.in",
+        "phone": "+91-120-0000027"
+      }
+    },
+    {
+      "college_name": "College 28",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college28.edu.in",
+        "email": "info@college28.edu.in",
+        "phone": "+91-120-0000028"
+      }
+    },
+    {
+      "college_name": "College 29",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college29.edu.in",
+        "email": "info@college29.edu.in",
+        "phone": "+91-120-0000029"
+      }
+    },
+    {
+      "college_name": "College 30",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college30.edu.in",
+        "email": "info@college30.edu.in",
+        "phone": "+91-120-0000030"
+      }
+    },
+    {
+      "college_name": "College 31",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college31.edu.in",
+        "email": "info@college31.edu.in",
+        "phone": "+91-120-0000031"
+      }
+    },
+    {
+      "college_name": "College 32",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college32.edu.in",
+        "email": "info@college32.edu.in",
+        "phone": "+91-120-0000032"
+      }
+    },
+    {
+      "college_name": "College 33",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college33.edu.in",
+        "email": "info@college33.edu.in",
+        "phone": "+91-120-0000033"
+      }
+    },
+    {
+      "college_name": "College 34",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college34.edu.in",
+        "email": "info@college34.edu.in",
+        "phone": "+91-120-0000034"
+      }
+    },
+    {
+      "college_name": "College 35",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college35.edu.in",
+        "email": "info@college35.edu.in",
+        "phone": "+91-120-0000035"
+      }
+    },
+    {
+      "college_name": "College 36",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college36.edu.in",
+        "email": "info@college36.edu.in",
+        "phone": "+91-120-0000036"
+      }
+    },
+    {
+      "college_name": "College 37",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college37.edu.in",
+        "email": "info@college37.edu.in",
+        "phone": "+91-120-0000037"
+      }
+    },
+    {
+      "college_name": "College 38",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college38.edu.in",
+        "email": "info@college38.edu.in",
+        "phone": "+91-120-0000038"
+      }
+    },
+    {
+      "college_name": "College 39",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college39.edu.in",
+        "email": "info@college39.edu.in",
+        "phone": "+91-120-0000039"
+      }
+    },
+    {
+      "college_name": "College 40",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college40.edu.in",
+        "email": "info@college40.edu.in",
+        "phone": "+91-120-0000040"
+      }
+    },
+    {
+      "college_name": "College 41",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college41.edu.in",
+        "email": "info@college41.edu.in",
+        "phone": "+91-120-0000041"
+      }
+    },
+    {
+      "college_name": "College 42",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college42.edu.in",
+        "email": "info@college42.edu.in",
+        "phone": "+91-120-0000042"
+      }
+    },
+    {
+      "college_name": "College 43",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college43.edu.in",
+        "email": "info@college43.edu.in",
+        "phone": "+91-120-0000043"
+      }
+    },
+    {
+      "college_name": "College 44",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college44.edu.in",
+        "email": "info@college44.edu.in",
+        "phone": "+91-120-0000044"
+      }
+    },
+    {
+      "college_name": "College 45",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college45.edu.in",
+        "email": "info@college45.edu.in",
+        "phone": "+91-120-0000045"
+      }
+    },
+    {
+      "college_name": "College 46",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college46.edu.in",
+        "email": "info@college46.edu.in",
+        "phone": "+91-120-0000046"
+      }
+    },
+    {
+      "college_name": "College 47",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college47.edu.in",
+        "email": "info@college47.edu.in",
+        "phone": "+91-120-0000047"
+      }
+    },
+    {
+      "college_name": "College 48",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college48.edu.in",
+        "email": "info@college48.edu.in",
+        "phone": "+91-120-0000048"
+      }
+    },
+    {
+      "college_name": "College 49",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college49.edu.in",
+        "email": "info@college49.edu.in",
+        "phone": "+91-120-0000049"
+      }
+    },
+    {
+      "college_name": "College 50",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college50.edu.in",
+        "email": "info@college50.edu.in",
+        "phone": "+91-120-0000050"
+      }
+    },
+    {
+      "college_name": "College 51",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college51.edu.in",
+        "email": "info@college51.edu.in",
+        "phone": "+91-120-0000051"
+      }
+    },
+    {
+      "college_name": "College 52",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college52.edu.in",
+        "email": "info@college52.edu.in",
+        "phone": "+91-120-0000052"
+      }
+    },
+    {
+      "college_name": "College 53",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college53.edu.in",
+        "email": "info@college53.edu.in",
+        "phone": "+91-120-0000053"
+      }
+    },
+    {
+      "college_name": "College 54",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college54.edu.in",
+        "email": "info@college54.edu.in",
+        "phone": "+91-120-0000054"
+      }
+    },
+    {
+      "college_name": "College 55",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college55.edu.in",
+        "email": "info@college55.edu.in",
+        "phone": "+91-120-0000055"
+      }
+    },
+    {
+      "college_name": "College 56",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college56.edu.in",
+        "email": "info@college56.edu.in",
+        "phone": "+91-120-0000056"
+      }
+    },
+    {
+      "college_name": "College 57",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college57.edu.in",
+        "email": "info@college57.edu.in",
+        "phone": "+91-120-0000057"
+      }
+    },
+    {
+      "college_name": "College 58",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college58.edu.in",
+        "email": "info@college58.edu.in",
+        "phone": "+91-120-0000058"
+      }
+    },
+    {
+      "college_name": "College 59",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college59.edu.in",
+        "email": "info@college59.edu.in",
+        "phone": "+91-120-0000059"
+      }
+    },
+    {
+      "college_name": "College 60",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college60.edu.in",
+        "email": "info@college60.edu.in",
+        "phone": "+91-120-0000060"
+      }
+    },
+    {
+      "college_name": "College 61",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college61.edu.in",
+        "email": "info@college61.edu.in",
+        "phone": "+91-120-0000061"
+      }
+    },
+    {
+      "college_name": "College 62",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college62.edu.in",
+        "email": "info@college62.edu.in",
+        "phone": "+91-120-0000062"
+      }
+    },
+    {
+      "college_name": "College 63",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college63.edu.in",
+        "email": "info@college63.edu.in",
+        "phone": "+91-120-0000063"
+      }
+    },
+    {
+      "college_name": "College 64",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college64.edu.in",
+        "email": "info@college64.edu.in",
+        "phone": "+91-120-0000064"
+      }
+    },
+    {
+      "college_name": "College 65",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college65.edu.in",
+        "email": "info@college65.edu.in",
+        "phone": "+91-120-0000065"
+      }
+    },
+    {
+      "college_name": "College 66",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college66.edu.in",
+        "email": "info@college66.edu.in",
+        "phone": "+91-120-0000066"
+      }
+    },
+    {
+      "college_name": "College 67",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college67.edu.in",
+        "email": "info@college67.edu.in",
+        "phone": "+91-120-0000067"
+      }
+    },
+    {
+      "college_name": "College 68",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college68.edu.in",
+        "email": "info@college68.edu.in",
+        "phone": "+91-120-0000068"
+      }
+    },
+    {
+      "college_name": "College 69",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college69.edu.in",
+        "email": "info@college69.edu.in",
+        "phone": "+91-120-0000069"
+      }
+    },
+    {
+      "college_name": "College 70",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college70.edu.in",
+        "email": "info@college70.edu.in",
+        "phone": "+91-120-0000070"
+      }
+    },
+    {
+      "college_name": "College 71",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college71.edu.in",
+        "email": "info@college71.edu.in",
+        "phone": "+91-120-0000071"
+      }
+    },
+    {
+      "college_name": "College 72",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college72.edu.in",
+        "email": "info@college72.edu.in",
+        "phone": "+91-120-0000072"
+      }
+    },
+    {
+      "college_name": "College 73",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college73.edu.in",
+        "email": "info@college73.edu.in",
+        "phone": "+91-120-0000073"
+      }
+    },
+    {
+      "college_name": "College 74",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college74.edu.in",
+        "email": "info@college74.edu.in",
+        "phone": "+91-120-0000074"
+      }
+    },
+    {
+      "college_name": "College 75",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college75.edu.in",
+        "email": "info@college75.edu.in",
+        "phone": "+91-120-0000075"
+      }
+    },
+    {
+      "college_name": "College 76",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college76.edu.in",
+        "email": "info@college76.edu.in",
+        "phone": "+91-120-0000076"
+      }
+    },
+    {
+      "college_name": "College 77",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college77.edu.in",
+        "email": "info@college77.edu.in",
+        "phone": "+91-120-0000077"
+      }
+    },
+    {
+      "college_name": "College 78",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college78.edu.in",
+        "email": "info@college78.edu.in",
+        "phone": "+91-120-0000078"
+      }
+    },
+    {
+      "college_name": "College 79",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college79.edu.in",
+        "email": "info@college79.edu.in",
+        "phone": "+91-120-0000079"
+      }
+    },
+    {
+      "college_name": "College 80",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college80.edu.in",
+        "email": "info@college80.edu.in",
+        "phone": "+91-120-0000080"
+      }
+    },
+    {
+      "college_name": "College 81",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college81.edu.in",
+        "email": "info@college81.edu.in",
+        "phone": "+91-120-0000081"
+      }
+    },
+    {
+      "college_name": "College 82",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college82.edu.in",
+        "email": "info@college82.edu.in",
+        "phone": "+91-120-0000082"
+      }
+    },
+    {
+      "college_name": "College 83",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college83.edu.in",
+        "email": "info@college83.edu.in",
+        "phone": "+91-120-0000083"
+      }
+    },
+    {
+      "college_name": "College 84",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college84.edu.in",
+        "email": "info@college84.edu.in",
+        "phone": "+91-120-0000084"
+      }
+    },
+    {
+      "college_name": "College 85",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college85.edu.in",
+        "email": "info@college85.edu.in",
+        "phone": "+91-120-0000085"
+      }
+    },
+    {
+      "college_name": "College 86",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college86.edu.in",
+        "email": "info@college86.edu.in",
+        "phone": "+91-120-0000086"
+      }
+    },
+    {
+      "college_name": "College 87",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college87.edu.in",
+        "email": "info@college87.edu.in",
+        "phone": "+91-120-0000087"
+      }
+    },
+    {
+      "college_name": "College 88",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college88.edu.in",
+        "email": "info@college88.edu.in",
+        "phone": "+91-120-0000088"
+      }
+    },
+    {
+      "college_name": "College 89",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college89.edu.in",
+        "email": "info@college89.edu.in",
+        "phone": "+91-120-0000089"
+      }
+    },
+    {
+      "college_name": "College 90",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college90.edu.in",
+        "email": "info@college90.edu.in",
+        "phone": "+91-120-0000090"
+      }
+    },
+    {
+      "college_name": "College 91",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college91.edu.in",
+        "email": "info@college91.edu.in",
+        "phone": "+91-120-0000091"
+      }
+    },
+    {
+      "college_name": "College 92",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college92.edu.in",
+        "email": "info@college92.edu.in",
+        "phone": "+91-120-0000092"
+      }
+    },
+    {
+      "college_name": "College 93",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college93.edu.in",
+        "email": "info@college93.edu.in",
+        "phone": "+91-120-0000093"
+      }
+    },
+    {
+      "college_name": "College 94",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college94.edu.in",
+        "email": "info@college94.edu.in",
+        "phone": "+91-120-0000094"
+      }
+    },
+    {
+      "college_name": "College 95",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college95.edu.in",
+        "email": "info@college95.edu.in",
+        "phone": "+91-120-0000095"
+      }
+    },
+    {
+      "college_name": "College 96",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college96.edu.in",
+        "email": "info@college96.edu.in",
+        "phone": "+91-120-0000096"
+      }
+    },
+    {
+      "college_name": "College 97",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college97.edu.in",
+        "email": "info@college97.edu.in",
+        "phone": "+91-120-0000097"
+      }
+    },
+    {
+      "college_name": "College 98",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college98.edu.in",
+        "email": "info@college98.edu.in",
+        "phone": "+91-120-0000098"
+      }
+    },
+    {
+      "college_name": "College 99",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college99.edu.in",
+        "email": "info@college99.edu.in",
+        "phone": "+91-120-0000099"
+      }
+    },
+    {
+      "college_name": "College 100",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college100.edu.in",
+        "email": "info@college100.edu.in",
+        "phone": "+91-120-00000100"
+      }
+    },
+    {
+      "college_name": "College 101",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college101.edu.in",
+        "email": "info@college101.edu.in",
+        "phone": "+91-120-00000101"
+      }
+    },
+    {
+      "college_name": "College 102",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college102.edu.in",
+        "email": "info@college102.edu.in",
+        "phone": "+91-120-00000102"
+      }
+    },
+    {
+      "college_name": "College 103",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college103.edu.in",
+        "email": "info@college103.edu.in",
+        "phone": "+91-120-00000103"
+      }
+    },
+    {
+      "college_name": "College 104",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college104.edu.in",
+        "email": "info@college104.edu.in",
+        "phone": "+91-120-00000104"
+      }
+    },
+    {
+      "college_name": "College 105",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college105.edu.in",
+        "email": "info@college105.edu.in",
+        "phone": "+91-120-00000105"
+      }
+    },
+    {
+      "college_name": "College 106",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college106.edu.in",
+        "email": "info@college106.edu.in",
+        "phone": "+91-120-00000106"
+      }
+    },
+    {
+      "college_name": "College 107",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college107.edu.in",
+        "email": "info@college107.edu.in",
+        "phone": "+91-120-00000107"
+      }
+    },
+    {
+      "college_name": "College 108",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college108.edu.in",
+        "email": "info@college108.edu.in",
+        "phone": "+91-120-00000108"
+      }
+    },
+    {
+      "college_name": "College 109",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "region": "NCR"
+      },
+      "affiliation": "Affiliation Example",
+      "type": "Private",
+      "courses_offered": [
+        "B.Tech",
+        "MBA"
+      ],
+      "fees": {
+        "btech": "\u20b91,00,000/year",
+        "mba": "\u20b91,20,000/year"
+      },
+      "contact": {
+        "website": "http://college109.edu.in",
+        "email": "info@college109.edu.in",
+        "phone": "+91-120-00000109"
+      }
+    }
+  ]

@@ -45,7 +45,7 @@ export default {
         },
       },
       animation: {
-        'fade-in': 'fadeIn 0.5s ease-in-out',
+        'fade-in': 'fade-in 0.3s ease-out',
         'slide-up': 'slideUp 0.5s ease-out',
         'slide-in-right': 'slideInRight 0.5s ease-out',
       },
@@ -62,8 +62,87 @@ export default {
           '0%': { transform: 'translateX(20px)', opacity: '0' },
           '100%': { transform: 'translateX(0)', opacity: '1' },
         },
+        'fade-in': {
+          '0%': { opacity: '0', transform: 'translateY(10px)' },
+          '100%': { opacity: '1', transform: 'translateY(0)' }
+        }
+      },
+      typography: {
+        DEFAULT: {
+          css: {
+            maxWidth: 'none',
+            color: '#1F2937',
+            h1: {
+              color: '#111827',
+              fontWeight: '700',
+            },
+            h2: {
+              color: '#111827',
+              fontWeight: '600',
+            },
+            h3: {
+              color: '#111827',
+              fontWeight: '600',
+            },
+            h4: {
+              color: '#111827',
+              fontWeight: '600',
+            },
+            h5: {
+              color: '#111827',
+              fontWeight: '600',
+            },
+            h6: {
+              color: '#111827',
+              fontWeight: '600',
+            },
+            strong: {
+              color: '#111827',
+              fontWeight: '600',
+            },
+            a: {
+              color: '#4F46E5',
+              '&:hover': {
+                color: '#4338CA',
+              },
+            },
+            p: {
+              marginTop: '0.5em',
+              marginBottom: '0.5em',
+            },
+            'ul, ol': {
+              marginTop: '0.5em',
+              marginBottom: '0.5em',
+            },
+            code: {
+              color: '#1F2937',
+              backgroundColor: '#F3F4F6',
+              paddingLeft: '0.25rem',
+              paddingRight: '0.25rem',
+              paddingTop: '0.125rem',
+              paddingBottom: '0.125rem',
+              borderRadius: '0.25rem',
+            },
+            'code::before': {
+              content: 'none',
+            },
+            'code::after': {
+              content: 'none',
+            },
+            pre: {
+              color: '#1F2937',
+              backgroundColor: '#F3F4F6',
+              padding: '0.75rem 1rem',
+              borderRadius: '0.5rem',
+              marginTop: '0.5em',
+              marginBottom: '0.5em',
+            },
+          },
+        },
       },
     },
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/typography'),
+  ],
 };

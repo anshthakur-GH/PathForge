@@ -2,7 +2,11 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { Compass, Home, Bookmark, User, Menu, X, Bot } from 'lucide-react';
 
-const Navbar: React.FC = () => {
+interface NavbarProps {
+  onOpenChatbot?: () => void;
+}
+
+const Navbar: React.FC<NavbarProps> = ({ onOpenChatbot }) => {
   const [isScrolled, setIsScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
@@ -59,7 +63,11 @@ const Navbar: React.FC = () => {
 
           <div className="hidden md:flex md:items-center">
             <div className="flex items-center space-x-4">
-              <button className="inline-flex items-center p-1 border border-transparent rounded-full bg-gray-100 hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary-500 transition-colors">
+              <button
+                className="inline-flex items-center p-1 border border-transparent rounded-full bg-gray-100 hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary-500 transition-colors"
+                onClick={onOpenChatbot}
+                aria-label="Open Chatbot"
+              >
                 <Bot size={20} className="text-gray-600" />
               </button>
               <button className="inline-flex items-center p-1 border border-transparent rounded-full bg-gray-100 hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary-500 transition-colors">

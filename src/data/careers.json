@@ -1,4 +1,4 @@
-﻿{
+{
   "domains": [
     {
       "id": "technology",
@@ -102,42 +102,42 @@
           "id": "data-science",
           "name": "Data Science",
           "icon": "📊",
-              "careers": [
-                {
-                  "id": "data-analyst",
-                  "title": "Data Analyst",
+          "careers": [
+            {
+              "id": "data-analyst",
+              "title": "Data Analyst",
               "overview": "Analyze and interpret complex data sets to help guide business decisions.",
-                  "roadmap": [
-                    {
+              "roadmap": [
+                {
                   "title": "Python Programming",
                   "description": "Learn Python fundamentals and data structures",
-                      "resources": [
-                        {
+                  "resources": [
+                    {
                       "title": "Python for Data Science",
                       "url": "https://www.python.org/"
-                        }
-                      ]
                     }
-                  ],
-                  "tools": [
-                    {
+                  ]
+                }
+              ],
+              "tools": [
+                {
                   "name": "Jupyter Notebook",
                   "icon": "📓"
-                    },
-                    {
+                },
+                {
                   "name": "Tableau",
                   "icon": "📈"
-                    }
-                  ],
-                  "projects": [
-                    {
-                      "title": "Data Analysis Project",
+                }
+              ],
+              "projects": [
+                {
+                  "title": "Data Analysis Project",
                   "description": "Analyze a real-world dataset and create visualizations"
-                    }
-                  ],
-                  "roles": [
-                    {
-                      "title": "Data Analyst",
+                }
+              ],
+              "roles": [
+                {
+                  "title": "Data Analyst",
                   "salary": "₹5-7 LPA"
                 }
               ]
@@ -305,77 +305,77 @@
                   "resources": [
                     {
                       "title": "Coursera ML Course",
-                          "url": "https://www.coursera.org/learn/machine-learning"
-                        }
-                      ]
-                    }
-                  ],
-                  "tools": [
-                    {
-                      "name": "TensorFlow",
-                  "icon": "📊"
-                    },
-                    {
-                      "name": "PyTorch",
-                      "icon": "🔥"
-                    }
-                  ],
-                  "projects": [
-                    {
-                  "title": "ML Model Development",
-                      "description": "Build and deploy a machine learning model"
-                    }
-                  ],
-                  "roles": [
-                    {
-                      "title": "ML Engineer",
-                      "salary": "₹12-25 LPA"
+                      "url": "https://www.coursera.org/learn/machine-learning"
                     }
                   ]
                 }
-              ]
-            },
-            {
-              "id": "deep-learning",
-              "name": "Deep Learning",
-          "icon": "🕸️",
-              "careers": [
+              ],
+              "tools": [
                 {
-                  "id": "deep-learning-engineer",
-                  "title": "Deep Learning Engineer",
-              "overview": "Develop and implement deep learning models and neural networks",
-                  "roadmap": [
-                    {
-                      "title": "Deep Learning",
-                  "description": "Learn neural networks and deep learning architectures",
-                      "resources": [
-                        {
-                          "title": "Deep Learning Specialization",
-                          "url": "https://www.deeplearning.ai/"
-                        }
-                      ]
-                    }
-                  ],
-                  "tools": [
-                    {
-                  "name": "Keras",
-                  "icon": "🧩"
-                    },
-                    {
                   "name": "TensorFlow",
                   "icon": "📊"
-                    }
-                  ],
-                  "projects": [
+                },
+                {
+                  "name": "PyTorch",
+                  "icon": "🔥"
+                }
+              ],
+              "projects": [
+                {
+                  "title": "ML Model Development",
+                  "description": "Build and deploy a machine learning model"
+                }
+              ],
+              "roles": [
+                {
+                  "title": "ML Engineer",
+                  "salary": "₹12-25 LPA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "deep-learning",
+          "name": "Deep Learning",
+          "icon": "🕸️",
+          "careers": [
+            {
+              "id": "deep-learning-engineer",
+              "title": "Deep Learning Engineer",
+              "overview": "Develop and implement deep learning models and neural networks",
+              "roadmap": [
+                {
+                  "title": "Deep Learning",
+                  "description": "Learn neural networks and deep learning architectures",
+                  "resources": [
                     {
+                      "title": "Deep Learning Specialization",
+                      "url": "https://www.deeplearning.ai/"
+                    }
+                  ]
+                }
+              ],
+              "tools": [
+                {
+                  "name": "Keras",
+                  "icon": "🧩"
+                },
+                {
+                  "name": "TensorFlow",
+                  "icon": "📊"
+                }
+              ],
+              "projects": [
+                {
                   "title": "Neural Network",
                   "description": "Build and train a deep neural network"
-                    }
-                  ],
-                  "roles": [
-                    {
-                      "title": "Deep Learning Engineer",
-                      "salary": "₹15-30 LPA"
+                }
+              ],
+              "roles": [
+                {
+                  "title": "Deep Learning Engineer",
+                  "salary": "₹15-30 LPA"
                 }
               ]
             }
@@ -521,7 +521,6 @@
         }
       ]
     },
-
     {
       "id": "business-intelligence",
       "name": "Business Intelligence",
@@ -6535,11 +6534,36 @@
       "name": "Technical Support",
       "icon": "🛠️",
       "subDomains": [
-        { "id": "it-helpdesk", "name": "IT Helpdesk", "icon": "💻", "careers": [] },
-        { "id": "remote-tech", "name": "Remote Tech", "icon": "🌐", "careers": [] },
-        { "id": "mobile-repair", "name": "Mobile Repair", "icon": "📱", "careers": [] },
-        { "id": "pc-assembler", "name": "PC Assembler", "icon": "🖥️", "careers": [] },
-        { "id": "internet-support", "name": "Internet Support", "icon": "🌍", "careers": [] }
+        {
+          "id": "it-helpdesk",
+          "name": "IT Helpdesk",
+          "icon": "💻",
+          "careers": []
+        },
+        {
+          "id": "remote-tech",
+          "name": "Remote Tech",
+          "icon": "🌐",
+          "careers": []
+        },
+        {
+          "id": "mobile-repair",
+          "name": "Mobile Repair",
+          "icon": "📱",
+          "careers": []
+        },
+        {
+          "id": "pc-assembler",
+          "name": "PC Assembler",
+          "icon": "🖥️",
+          "careers": []
+        },
+        {
+          "id": "internet-support",
+          "name": "Internet Support",
+          "icon": "🌍",
+          "careers": []
+        }
       ]
     },
     {
@@ -6547,11 +6571,36 @@
       "name": "YouTube & Influencing",
       "icon": "🎥",
       "subDomains": [
-        { "id": "niche-youtuber", "name": "Niche YouTuber", "icon": "📺", "careers": [] },
-        { "id": "shorts-creator", "name": "Shorts Creator", "icon": "🎬", "careers": [] },
-        { "id": "monetization-expert", "name": "Monetization Expert", "icon": "💰", "careers": [] },
-        { "id": "affiliate-creator", "name": "Affiliate Creator", "icon": "🔗", "careers": [] },
-        { "id": "reaction-host", "name": "Reaction Host", "icon": "😮", "careers": [] }
+        {
+          "id": "niche-youtuber",
+          "name": "Niche YouTuber",
+          "icon": "📺",
+          "careers": []
+        },
+        {
+          "id": "shorts-creator",
+          "name": "Shorts Creator",
+          "icon": "🎬",
+          "careers": []
+        },
+        {
+          "id": "monetization-expert",
+          "name": "Monetization Expert",
+          "icon": "💰",
+          "careers": []
+        },
+        {
+          "id": "affiliate-creator",
+          "name": "Affiliate Creator",
+          "icon": "🔗",
+          "careers": []
+        },
+        {
+          "id": "reaction-host",
+          "name": "Reaction Host",
+          "icon": "😮",
+          "careers": []
+        }
       ]
     },
     {
@@ -6631,7 +6680,6 @@
         }
       ]
     },
-
     {
       "id": "animation-vfx",
       "name": "Animation & VFX",
@@ -6709,7 +6757,6 @@
         }
       ]
     },
-
     {
       "id": "architecture-interior-design",
       "name": "Architecture & Interior Design",
